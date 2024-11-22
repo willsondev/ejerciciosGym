@@ -1,0 +1,1447 @@
+{
+    "ejercicios": [
+        {
+            "id": 1,
+            "titulo": "Press de pecho en máquina",
+            "categoria": "Pectorales",
+            "descripcion": "El press de pecho en máquina es un ejercicio de entrenamiento de fuerza que se enfoca en los músculos del pecho, los hombros y los tríceps. Es una excelente manera de desarrollar y fortalecer los músculos de la parte superior del cuerpo, lo que puede mejorar tu postura, aumentar la fuerza y mejorar la apariencia física. Incorporar este ejercicio en tu rutina de entrenamiento puede ser muy beneficioso para lograr tus objetivos de fitness.",
+            "imagen": "../src/assets/ejercicicios-gym/Press-de-pecho-en-maquina-1024x576.webp",
+            "video": "1.mp4"
+        },
+        {
+            "id": 2,
+            "titulo": "Press de pecho declinado en máquina",
+            "categoria": "Pectorales",
+            "descripcion": "El press de pecho declinado en máquina es un ejercicio de entrenamiento de fuerza que se centra en la parte inferior del pecho. A menudo, se pasa por alto en favor de otros ejercicios más populares como el press de banca, pero no debería ser así. Al incorporar este ejercicio en tu rutina, puedes desarrollar y fortalecer los músculos de la parte inferior del pecho, lo que puede mejorar tu postura y aumentar la fuerza en otros movimientos de la parte superior del cuerpo.",
+            "imagen": "../src/assets/ejercicicios-gym/2-Press-de-pecho-declinado-en-maquina-1024x576.webp",
+            "video": "2-13001205-Lever-Decline-Chest-Press_Chest-flat.mp4"
+        },
+        {
+            "id": 3,
+            "titulo": "Pullover en máquina",
+            "categoria": "Pectorales",
+            "descripcion": "Si buscas un ejercicio que te permita trabajar diferentes músculos de forma efectiva, el pullover en máquina es una excelente opción. Este movimiento se enfoca en los músculos de la espalda, los hombros y los brazos, lo que lo convierte en un ejercicio muy completo. Además, la máquina te permite controlar la resistencia y el rango de movimiento para obtener los mejores resultados.",
+            "imagen": "../src/assets/ejercicicios-gym/3-Pullover-en-maquina-1024x576.webp",
+            "video": "3-22851205-Lever-Pullover-plate-loaded-_Back-flat.mp4"
+        },
+        {
+            "id": 4,
+            "titulo": "Press martillo en banco inclinado con mancuernas",
+            "categoria": "Pectorales",
+            "descripcion": "El press de pecho en máquina es un ejercicio de entrenamiento de fuerza que se enfoca en los músculos del pecho, los hombros y los tríceps. Es una excelente manera de desarrollar y fortalecer los músculos de la parte superior del cuerpo, lo que puede mejorar tu postura, aumentar la fuerza y mejorar la apariencia física. Incorporar este ejercicio en tu rutina de entrenamiento puede ser muy beneficioso para lograr tus objetivos de fitness.",
+            "imagen": "../src/assets/ejercicicios-gym/4-Press-martillo-en-banco-inclinado-con-mancuernas-1024x576.webp",
+            "video": "4-03211205-Dumbbell-Incline-Hammer-Press_Chest-flat.mp4"
+        },
+        {
+            "id": 5,
+            "titulo": "Press martillo con mancuernas en banco plano",
+            "categoria": "Pectorales",
+            "descripcion": "El press martillo con mancuernas en banco plano es un ejercicio ideal para fortalecer los músculos del pecho, los hombros y los tríceps. Además, al utilizar mancuernas, permite trabajar cada lado del cuerpo de manera individual, lo que ayuda a corregir posibles desequilibrios musculares. ¡Anímate a probar este ejercicio y a conseguir un torso fuerte y definido!",
+            "imagen": "../src/assets/ejercicicios-gym/5.webp",
+            "video": "5-03401205-Dumbbell-Lying-Hammer-Press_Chest-flat.mp4"
+        },
+        {
+            "id": 6,
+            "titulo": "Press de banca declinado alternado con mancuernas",
+            "categoria": "Pectorales",
+            "descripcion": "Si estás buscando un ejercicio para fortalecer tus pectorales, hombros y tríceps, no busques más allá del press de banca declinado alternado con mancuernas. Este ejercicio es ideal para aquellos que quieren aumentar su fuerza y tamaño muscular en la parte superior del cuerpo.",
+            "imagen": "../src/assets/ejercicicios-gym/6-Press-de-banca-declinado-alternado-con-mancuernas-1024x576.webp",
+            "video": "6-Press-de-banca-declinado-alternado-con-mancuernas-1024x576.webp"
+        },
+        {
+            "id": 7,
+            "titulo": "Press de banca declinado con mancuernas",
+            "categoria": "Pectorales",
+            "descripcion": "Si estás buscando un ejercicio que te ayude a fortalecer tus músculos pectorales, hombros y tríceps, el press de banca declinado con mancuernas es una excelente opción. Este ejercicio puede ayudarte a mejorar tu fuerza y resistencia, además de proporcionarte un aspecto tonificado en la parte superior del cuerpo.",
+            "imagen": "../src/assets/ejercicicios-gym/7-Press-de-banca-declinado-con-mancuernas-1024x576.webp",
+            "video": "7-03011205-Dumbbell-Decline-Bench-Press_Chest-flat-1.mp4"
+        },
+        {
+            "id": 8,
+            "titulo": "PPress de banca inclinado con poleas",
+            "categoria": "Pectorales",
+            "descripcion": "El press de banca inclinado con poleas es un excelente ejercicio para desarrollar la fuerza y la definición de los músculos pectorales superiores. Además, también se trabajan los hombros y tríceps, lo que lo convierte en un movimiento compuesto altamente efectivo. Si estás buscando mejorar tu fuerza y definición muscular en la parte superior del cuerpo, el press de banca inclinado con poleas puede ser el ejercicio que necesitas en tu rutina de entrenamiento.",
+            "imagen": "../src/assets/ejercicicios-gym/Press-de-pecho-en-maquina-1024x576.webp",
+            "video": "8-01691205-Cable-Incline-Bench-Press_Chest-flat.mp4"
+        },
+        {
+            "id": 9,
+            "titulo": "Press de banca inclinado con barra",
+            "categoria": "Pectorales",
+            "descripcion": "El press de banca inclinado con barra es un ejercicio clásico para el fortalecimiento del pecho y los hombros. Es una excelente manera de agregar variedad a tu entrenamiento y trabajar diferentes partes de los músculos del pecho. Este ejercicio también puede mejorar tu fuerza general en la parte superior del cuerpo, lo que puede tener un impacto positivo en tu rendimiento en otros ejercicios. En este artículo, te mostraremos cómo hacer el press de banca inclinado con barra y algunos consejos para que puedas realizarlo de manera segura y efectiva.",
+            "imagen": "../src/assets/ejercicicios-gym/9-Press-de-banca-inclinado-con-barra-1024x576.webp",
+            "video": "9-00471205-Barbell-Incline-Bench-Press_Chest-flat.mp4"
+        },
+        {
+            "id": 10,
+            "titulo": "Press de banca con mancuernas",
+            "categoria": "Pectorales",
+            "descripcion": "El press de banca con mancuernas es un ejercicio clásico que no debe faltar en tu rutina de entrenamiento. Este ejercicio no solo ayuda a desarrollar fuerza en el pecho, sino también en los hombros y tríceps. Además, es ideal para trabajar el equilibrio y la estabilidad del cuerpo. En este artículo, aprenderás cómo realizar el press de banca con mancuernas de manera efectiva.",
+            "imagen": "../src/assets/ejercicicios-gym/10-Press-de-banca-con-mancuernas-1024x576.webp",
+            "video": "10-02891205-Dumbbell-Bench-Press_Chest-flat.mp4"
+        },
+        {
+            "id": 11,
+            "titulo": "Press alternado inclinado con mancuernas",
+            "categoria": "Pectorales",
+            "descripcion": "Si estás buscando un ejercicio que te ayude a fortalecer los músculos de tus hombros y brazos, el press alternado inclinado con mancuernas puede ser una excelente opción. Este ejercicio trabaja los músculos del hombro, el tríceps y el pecho, lo que lo convierte en una excelente opción para tonificar tus brazos y mejorar tu fuerza en general.",
+            "imagen": "../src/assets/ejercicicios-gym/11-Press-alternado-inclinado-con-mancuernas-1024x576.webp",
+            "video": "11-35451205-Dumbbell-Incline-Alternate-Press_Chest-flat.mp4"
+        },
+        {
+            "id": 12,
+            "titulo": "Press alternado con mancuernas en banco plano",
+            "categoria": "Pectorales",
+            "descripcion": "Si estás buscando un ejercicio para fortalecer y tonificar tus brazos, el press alternado con mancuernas en banco plano puede ser justo lo que necesitas. Este ejercicio es una excelente manera de trabajar los músculos del brazo de forma aislada, mientras también implica los músculos estabilizadores del hombro y la espalda. Además, al utilizar mancuernas, puedes ajustar el peso de acuerdo a tu nivel de condición física y aumentar la intensidad con el tiempo.",
+            "imagen": "../src/assets/ejercicicios-gym/12-Press-alternado-con-mancuernas-en-banco-plano.webp",
+            "video": "12-36951205-Dumbbell-Alternate-Bench-Press-high-start_Chest-.mp4"
+        },
+        {
+            "id": 13,
+            "titulo": "Aperturas en banco declinado (agarre supino)",
+            "categoria": "Pectorales",
+            "descripcion": "Las aperturas girando la mano en supino en banco declinado son un excelente ejercicio para desarrollar y fortalecer los músculos del pecho. Al girar las manos en posición supina estando declinado, se activa más el músculo pectoral inferior, lo que resulta en un entrenamiento más completo. En este ejercicio, también se trabaja la estabilidad de los hombros y el núcleo, lo que lo convierte en una opción efectiva para cualquier nivel de habilidad.",
+            "imagen": "../src/assets/ejercicicios-gym/13-Aperturas-girando-en-banco-declinado-1024x576.webp",
+            "video": "13-03071205-Dumbbell-Decline-Twist-Fly_Chest-flat.mp4"
+        },
+        {
+            "id": 14,
+            "titulo": "Aperturas en banco plano con polea",
+            "categoria": "Pectorales",
+            "descripcion": "Las aperturas en banco plano con poleas son un ejercicio eficaz para desarrollar la fuerza y el tamaño de los músculos pectorales. En este ejercicio, se utiliza la resistencia proporcionada por las poleas para trabajar los músculos del pecho de forma más efectiva. A continuación, se presentan las instrucciones y consejos para realizar este ejercicio correctamente.",
+            "imagen": "../src/assets/ejercicicios-gym/14-Aperturas-en-banco-plano-con-poleas-1024x576.webp",
+            "video": "14-01851205-Cable-Lying-Fly_Chest-flat.mp4"
+        },
+        {
+            "id": 15,
+            "titulo": "Aperturas declinado en polea",
+            "categoria": "Pectorales",
+            "descripcion": "Las aperturas en banco declinado con polea son un ejercicio excelente para fortalecer y tonificar los músculos pectorales. Este movimiento se realiza en una máquina de poleas y se enfoca en el pecho inferior, ayudando a crear una apariencia más definida y completa en el área del pecho. Aquí te presentamos las instrucciones claras para realizar el ejercicio en 4 pasos.",
+            "imagen": "../src/assets/ejercicicios-gym/15-Aperturas-declinado-en-polea-1024x576.webp",
+            "video": "15-01581205-Cable-Decline-Fly_Chest-flat.mp4"
+        },
+        {
+            "id": 16,
+            "titulo": "Squeeze Bench Press",
+            "categoria": "Pectorales",
+            "descripcion": "El Press de banca Squeeze  es una variación del clásico press de banca que involucra un mayor trabajo de los músculos pectorales. En este ejercicio, se utiliza una barra o mancuernas y se enfatiza la contracción de los músculos del pecho al apretar las pesas juntas al final del movimiento.",
+            "imagen": "../src/assets/ejercicicios-gym/16-Squeeze-Bench-Press.webp",
+            "video": "16-36811205-Dumbbell-Squeeze-Bench-Press_Chest-flat.mp4"
+        },
+        {
+            "id": 17,
+            "titulo": "Landmine Squeeze Press de rodillas",
+            "categoria": "Pectorales",
+            "descripcion": "El ejercicio «Landmine Kneeling Squeeze Press» es una variante del press de banca que se enfoca en el pecho, los hombros y los tríceps. Se realiza con una barra en el extremo de un landmine, que se apoya en el suelo. Este ejercicio requiere una gran estabilidad del núcleo y la parte superior del cuerpo, lo que lo convierte en un desafío ideal para aquellos que buscan agregar variedad y desafío a su rutina de entrenamiento de fuerza. ¡Vamos a hacerlo!",
+            "imagen": "../src/assets/ejercicicios-gym/17-Squeeze-Press-con-barra-landmine-1024x576.webp",
+            "video": "17-39211205-Landmine-Kneeling-Squeeze-Press_Chest-flat.mp4"
+        },
+        {
+            "id": 18,
+            "titulo": "Squeeze Press inclinado con mancuernas",
+            "categoria": "Pectorales",
+            "descripcion": "El ejercicio Squeeze Press inclinado o press de contracción inclinado con mancuernas es una variante del press de banca que se enfoca en los músculos pectorales, los hombros y los tríceps. Este movimiento se realiza en un banco inclinado con mancuernas y se centra en apretar las mancuernas juntas en la parte superior del movimiento para maximizar la contracción muscular.",
+            "imagen": "../src/assets/ejercicicios-gym/18-Squeeze-Press-inclinado-con-mancuernas.webp",
+            "video": "18-50671205-Dumbbell-Incline-Squeeze-Press_Upper-Arms-flat.mp4"
+        },
+        {
+            "id": 19,
+            "titulo": "Vuelos a una mano con mancuerna",
+            "categoria": "Pectorales",
+            "descripcion": "Los vuelos a una mano con mancuerna son un ejercicio popular en el mundo del fitness que se enfoca en fortalecer los músculos de la espalda, los hombros y los brazos. Te enseñamos como hacerlo y algunas recomendaciones para maximizar tus ganancias.",
+            "imagen": "../src/assets/ejercicicios-gym/19-Vuelos-a-una-mano-con-mancuerna-1024x576.webp",
+            "video": "19-41501205-Dumbbell-One-Arm-Low-Fly_Chest-flat.mp4"
+        },
+        {
+            "id": 20,
+            "titulo": "Press de banca plano con poleas",
+            "categoria": "Pectorales",
+            "descripcion": "El press de banca plano con poleas es un ejercicio de entrenamiento de fuerza que se enfoca en los músculos pectorales, los tríceps y los hombros. A diferencia del press de banca con pesos libres, este se realiza con una máquina de poleas que proporciona resistencia constante durante todo el movimiento.",
+            "imagen": "../src/assets/ejercicicios-gym/20-Press-de-banca-plano-con-poleas-1024x576.webp",
+            "video": "20-01511205-Cable-Bench-Press_Chest.mp4"
+        },
+        {
+            "id": 21,
+            "titulo": "Press de banca con barra",
+            "categoria": "Pectorales",
+            "descripcion": "¿Quieres fortalecer tus músculos pectorales, tríceps y hombros? El press de banca con barra es uno de los ejercicios más populares en el entrenamiento de fuerza, y es muy efectivo para desarrollar la fuerza y la masa muscular en la parte superior del cuerpo. Además, es un ejercicio básico que se puede realizar con un equipamiento mínimo en cualquier gimnasio.",
+            "imagen": "../src/assets/ejercicicios-gym/21-Press-de-banca-plano-con-barra-1024x576.webp",
+            "video": "21-00251205-Barbell-Bench-Press_Chest-flat.mp4"
+        },
+        {
+            "id": 22,
+            "titulo": "Fondos de pecho",
+            "categoria": "Pectorales",
+            "descripcion": "Los fondos o dips de pecho es uno de los mejores ejercicios para ganar músculo y  fuerza en el pecho y los tríceps. Pero se requiere de una correcta ejecución para aprovechar al máximo su potencial y prevenir lesiones. Aquí te explicamos cómo ¿estás listo para aprender? ¡Vamos!",
+            "imagen": "../src/assets/ejercicicios-gym/22-Fondos-de-pecho-1024x576.webp",
+            "video": "22-14301205-Chest-Dip-on-dip-pull-up-cage_Chest-flat.mp4"
+        },
+        {
+            "id": 23,
+            "titulo": "Press declinado con barra",
+            "categoria": "Pectorales",
+            "descripcion": "El press declinado con barra, es otro tipo del press tradicional. No obstante, se trata de un ejercicio que debemos llevar a cabo si queremos conseguir una simetría en el desarrollo de los músculos.",
+            "imagen": "../src/assets/ejercicicios-gym/23-isologo-white-1024x576.jpg",
+            "video": "23-00331205-Barbell-Decline-Bench-Press_Chest-flat.mp4"
+        },
+        {
+            "id": 24,
+            "titulo": "Aperturas pec deck de pecho",
+            "categoria": "Pectorales",
+            "descripcion": "Las aperturas pec deck de pecho, también conocidas como de contractor, son consideradas como uno de los ejercicios que más trabaja los músculos localizados en la región del pecho. Se trata de un ejercicio ideal para principiantes; y esto se debe, sobre todo, a que gracias a este ejercicio se adquiere fuerza con el fin de que, posteriormente, pasemos a ejercicios considerados como más complicados. A continuación te decimos cómo hacerlo, así como consejos y errores frecuentes.",
+            "imagen": "../src/assets/ejercicicios-gym/24-Pec-Deck-ly-en-maquina-1024x576.webp",
+            "video": "24-10301205-Lever-Pec-Deck-Fly_Chest.mp4"
+        },
+        {
+            "id": 25,
+            "titulo": "Flexiones o lagartijas",
+            "categoria": "Pectorales",
+            "descripcion": "El ejercicio de flexiones o lagartijas es uno de los más comunes para trabajar la musculatura de hombros, brazos y pecho. Y es practicado de forma usual tanto por hombres como por mujeres.",
+            "imagen": "../src/assets/ejercicicios-gym/25-Flexiones-hombre-1024x576.webp",
+            "video": "25-06621205-Push-up-male_Chest-flat.mp4"
+        },
+        {
+            "id": 26,
+            "titulo": "Press de banca inclinado con mancuernas",
+            "categoria": "Pectorales",
+            "descripcion": "El press de banca inclinado con mancuernas es considerado como uno de los ejercicios que más se practican en los gimnasios en la actualidad. Cuando se lleva a cabo entrenamiento de musculación, entonces se trata de un ejercicio esencial en el entrenamiento de la zona del pecho, que incuso es practicado por atletas de alto rendimiento.",
+            "imagen": "../src/assets/ejercicicios-gym/26-Press-de-banca-inclinado-con-mancuernas-1024x576.webp",
+            "video": "26-03141205-Dumbbell-Incline-Bench-Press_Chest-flat.mp4"
+        },
+        {
+            "id": 27,
+            "titulo": "Aperturas con mancuernas en banco inclinado",
+            "categoria": "Pectorales",
+            "descripcion": "El ejercicio de apertura con mancuernas en banco inclinado es un ejercicio relativamente fácil de realizar, que no necesita demasiada preparación. Con él se trabajan los músculos de la parte superior, esencialmente los pectorales.",
+            "imagen": "../src/assets/ejercicicios-gym/27-Aperturas-con-mancuernas-en-banco-inclinado-1024x576.webp",
+            "video": "27-03191205-Dumbbell-Incline-Fly_Chest-flat.mp4"
+        },
+        {
+            "id": 28,
+            "titulo": "Aperturas con mancuernas en banco plano",
+            "categoria": "Pectorales",
+            "descripcion": "Los ejercicios que se llevan a cabo en banco plano acostumbran a ser perfectos para poder mejorar el aspecto y fuerza de la región de los pectorales. Son abundantes los ejercicios que se pueden efectuar en el banco plano si se desea trabajar de forma realmente efectiva la región, mas en esta ocasión hablaremos de la apertura con mancuernas en banco plano.",
+            "imagen": "../src/assets/ejercicicios-gym/28-Aperturas-con-mancuernas-en-banco-plano-1024x576.webp",
+            "video": "28-Aperturas-con-mancuernas-en-banco-plano-1024x576.webp"
+        },
+        {
+            "id": 29,
+            "titulo": "Pullover con mancuerna",
+            "categoria": "Pectorales",
+            "descripcion": "El pullover con mancuerna, es uno de los mejores ejercicios que podemos hacer para desarrollar de mejor manera el tamaño de nuestra caja torácica; lo que, además, desarrollará los grupos musculares en el pecho.",
+            "imagen": "../src/assets/ejercicicios-gym/29-Pullover-con-mancuerna-1024x576.webp",
+            "video": "29-03751205-Dumbbell-Pullover_Chest-flat.mp4"
+        },
+        {
+            "id": 30,
+            "titulo": "Cruces en polea baja",
+            "categoria": "Pectorales",
+            "descripcion": "Unos pectorales grandes y bien definidos se ven increíbles en cualquier hombre y muy útiles en su involucración indirecta. Realizar cruces en polea baja es una muy buena opción para todas aquellas personas que desean tonificar su pecho (principalmente parte superior).",
+            "imagen": "../src/assets/ejercicicios-gym/30-Cable-Low-Fly-1024x576.webp",
+            "video": "30-01791205-Cable-Low-Fly_Chest.mp4"
+        },
+        {
+            "id": 31,
+            "titulo": "Cruces en polea alta o crossover para pectorales",
+            "categoria": "Pectorales",
+            "descripcion": "Hacer ejercicio requiere de una rutina que te permita trabajar todos los músculos. Realizar cruces en polea alta o también llamado crossover con cable o mariposas con máquina de poleas es una excelente opción para trabajar los pectorales. De esta manera, podrás añadirlo a tu rutina cuando trabajes con las máquinas de poleas especiales para este entrenamiento.",
+            "imagen": "../src/assets/ejercicicios-gym/31-Crossovers-con-polea-1024x576.webp",
+            "video": "31-12691205-Cable-Standing-Up-Straight-Crossovers_Chest-flat.mp4"
+        },
+        {
+            "id": 32,
+            "titulo": "Aperturas en contractor de pecho",
+            "categoria": "Pectorales",
+            "descripcion": "Las aperturas en contractor de pecho, son una excelente opción para mejorar los músculos superiores. Construye un pectoral más grande con estas aperturas en máquina contractor de pecho.",
+            "imagen": "../src/assets/ejercicicios-gym/32-Aperturas-en-maquina-para-pecho-1024x576.webp",
+            "video": "32-05961205-Lever-Seated-Fly_Chest.mp4"
+        },
+        {
+            "id": 33,
+            "titulo": "Aperturas con mancuernas: Plano, inclinado y declinado",
+            "categoria": "Pectorales",
+            "descripcion": "Las aperturas con mancuernas son un ejercicio que te permite ejercitar la parte superior de tu cuerpo. Para desarrollar tus pectorales al máximo, es uno de los ejercicios más utilizados y útiles en los gimnasios.",
+            "imagen": "../src/assets/ejercicicios-gym/33-Aperturas-con-mancuernas-en-banco-plano-1024x576.webp",
+            "video": "33-03081205-Dumbbell-Fly_Chest-flat.mp4"
+        },
+        {
+            "id": 34,
+            "titulo": "Remo supino con mancuernas",
+            "categoria": "Espalda",
+            "descripcion": "El remo supino con mancuernas es un ejercicio de fuerza que te ayudará a trabajar tus músculos de la espalda, especialmente los músculos del trapecio y el dorsal ancho. Este ejercicio es perfecto para aquellos que buscan mejorar su postura y fortalecer su espalda baja. Además, es una opción ideal para quienes quieren añadir variedad a su rutina de entrenamiento. A continuación, te enseñaremos cómo realizar correctamente el remo supino con mancuernas.",
+            "imagen": "../src/assets/ejercicicios-gym/ejercicios-piernas/34-Remo-supino-con-mancuernas-1024x576.webp",
+            "video": "34-37991205-Dumbbell-Bent-Over-Reverse-Row_Back-flat.mp4"
+        },
+        {
+            "id": 35,
+            "titulo": "Remo supino en polea baja (de pie)",
+            "categoria": "Espalda",
+            "descripcion": "El remo supino en polea baja de pie es un ejercicio de entrenamiento de fuerza efectivo que se enfoca en fortalecer la espalda y los músculos del núcleo. Este ejercicio ayuda a mejorar la postura y la estabilidad, mientras que también trabaja los músculos de los brazos y los hombros. Si estás buscando un ejercicio que te ayude a fortalecer y tonificar la parte superior del cuerpo, el remo supino en polea baja de pie es una excelente opción.",
+            "imagen": "../src/assets/ejercicicios-gym/ejercicios-piernas/35-Remo-supino-cerrado-en-polea-1024x576.webp",
+            "video": "35-43671205-Cable-Bent-Over-Reverse-Grip-Row_Back-flat.mp4"
+        },
+        {
+            "id": 36,
+            "titulo": "Remo sentado en polea con agarre de cuerda",
+            "categoria": "Espalda",
+            "descripcion": "El remo sentado en polea con agarre en cuerda es un ejercicio de entrenamiento de fuerza efectivo para la espalda, los hombros y los brazos. Este movimiento te permite trabajar los músculos de la espalda y los hombros de manera segura y efectiva al utilizar la resistencia controlada de una máquina de polea. Si buscas fortalecer tu espalda y mejorar tu postura, el remo sentado en polea con agarre en cuerda es un excelente ejercicio para agregar a tu rutina.",
+            "imagen": "../src/assets/ejercicicios-gym/ejercicios-piernas/36-Remo-sentado-en-polea-agarre-cuerda-1024x576.webp",
+            "video": "36-13231205-Cable-Rope-Seated-Row_Back-flat.mp4"
+        },
+        {
+            "id": 37,
+            "titulo": "Remo sentado en máquina",
+            "categoria": "Espalda",
+            "descripcion": "El remo sentado en máquina es un ejercicio ideal para trabajar la espalda de manera efectiva. Además de mejorar la postura, este ejercicio fortalece los músculos de la espalda y aumenta la resistencia. Si estás buscando una forma de mejorar tu entrenamiento de espalda, el remo sentado en máquina es una excelente opción.",
+            "imagen": "../src/assets/ejercicicios-gym/ejercicios-piernas/37-Remo-sentado-en-maquina-1024x576.webp",
+            "video": "37-13501205-Lever-Seated-Row_Back-flat.mp4"
+        },
+        {
+            "id": 38,
+            "titulo": "Remo invertido agarre supino",
+            "categoria": "Espalda",
+            "descripcion": "Si estás buscando un ejercicio para fortalecer tu espalda y mejorar tu postura, el remo invertido agarre supino es una excelente opción. Este ejercicio te permitirá trabajar los músculos de la espalda y los hombros de una manera efectiva y segura. Además, al ser un ejercicio con tu propio peso corporal, no requiere de equipamiento costoso.",
+            "imagen": "../src/assets/ejercicicios-gym/ejercicios-piernas/38-Remo-invertido-agarre-supino-1024x576.webp",
+            "video": "38-12231205-Underhand-Grip-Inverted-Back-Row_Back-flat.mp4"
+        },
+        {
+            "id": 39,
+            "titulo": "Remo inclinado en banco con mancuernas (agarre prono)",
+            "categoria": "Espalda",
+            "descripcion": "El remo inclinado en banco con mancuernas (agarre prono) es un excelente ejercicio para fortalecer la espalda y los brazos. Este ejercicio es perfecto para aquellos que buscan aumentar la masa muscular en la parte superior del cuerpo y mejorar su postura. Si estás buscando un ejercicio efectivo para trabajar la espalda, entonces este es el indicado para ti.",
+            "imagen": "../src/assets/ejercicicios-gym/ejercicios-piernas/39-Remo-inclinado-en-banco-con-mancuernas-1024x576.webp",
+            "video": "39-03271205-Dumbbell-Incline-Row_Back-flat.mp4"
+        },
+        {
+            "id": 40,
+            "titulo": "Remo en polea agarre supino",
+            "categoria": "Espalda",
+            "descripcion": "El remo en polea agarre supino es un ejercicio excelente para trabajar la espalda y los brazos, ya que activa los músculos de la espalda y los bíceps. Además, al hacerlo con una polea, se pueden ajustar los niveles de resistencia y tener un mayor control del movimiento. Si estás buscando un ejercicio para fortalecer tu espalda y mejorar tu postura, el remo en polea agarre supino es una excelente opción.",
+            "imagen": "../src/assets/ejercicicios-gym/ejercicios-piernas/40-Remo-en-polea-agarre-supino-1024x576.webp",
+            "video": "40-32331205-Cable-Seated-Supine-grip-Row-male_Back-flat.mp4"
+        },
+        {
+            "id": 41,
+            "titulo": "Remo sentado en polea con agarre abierto",
+            "categoria": "Espalda",
+            "descripcion": "Si buscas un ejercicio efectivo para fortalecer la espalda, el remo sentado en polea con agarre abierto prono es una excelente opción. Este ejercicio trabaja los músculos de la espalda, los hombros y los brazos, y puede ayudarte a mejorar tu postura y prevenir lesiones. Además, es una opción ideal para aquellos que buscan evitar el impacto en las rodillas y las caderas que puede ocurrir en otros ejercicios de remo. ¡Agrega este ejercicio a tu rutina y verás los resultados en poco tiempo!",
+            "imagen": "../src/assets/ejercicicios-gym/ejercicios-piernas/40-Remo-en-polea-agarre-supino-1024x576.webp",
+            "video": "41-02181205-Cable-Seated-Wide-grip-Row_Back-flat.mp4"
+        },
+        {
+            "id": 42,
+            "titulo": "Remo en banco inclinado con mancuernas (agarre neutro)",
+            "categoria": "Espalda",
+            "descripcion": "El remo en banco inclinado con mancuernas agarre neutro es un ejercicio de entrenamiento de fuerza efectivo que se enfoca en la parte superior de la espalda y los músculos del brazo. Este ejercicio no solo mejora la postura, sino que también aumenta la fuerza y la estabilidad en la parte superior del cuerpo. Si buscas una forma efectiva de tonificar y fortalecer tu espalda, este ejercicio es una excelente opción.",
+            "imagen": "../src/assets/ejercicicios-gym/ejercicios-piernas/40-Remo-en-polea-agarre-supino-1024x576.webp",
+            "video": "42-33201205-Dumbbell-Hammer-Grip-Incline-Bench-Two-Arm-Row_Back-flat.mp4"
+        },
+        {
+            "id": 43,
+            "titulo": "Remo de pie con polea agarre prono",
+            "categoria": "Espalda",
+            "descripcion": "El remo de pie con polea agarre prono es un ejercicio efectivo para trabajar la espalda, los hombros y los brazos. También puede mejorar la postura y fortalecer los músculos del core. Si estás buscando una forma de fortalecer tu cuerpo superior, el remo de pie con polea agarre prono es una excelente opción para agregar a tu rutina de entrenamiento.",
+            "imagen": "../src/assets/ejercicicios-gym/ejercicios-piernas/43-Remo-de-pie-con-polea-agarre-prono-cerrado-1024x576.webp",
+            "video": "43-51791205-Cable-Standing-Close-Grip-Row_Back-flat.mp4"
+        },
+        {
+            "id": 44,
+            "titulo": "Remo con mancuernas (ambas manos)",
+            "categoria": "Espalda",
+            "descripcion": "El remo con mancuernas es un ejercicio de entrenamiento de fuerza altamente efectivo que se enfoca en desarrollar la espalda, los hombros y los brazos. Además, este ejercicio también puede mejorar la postura, aumentar la fuerza y mejorar la apariencia física. Si estás buscando una forma efectiva de trabajar la parte superior del cuerpo, el remo con mancuernas es una excelente opción.",
+            "imagen": "../src/assets/ejercicicios-gym/ejercicios-piernas/44-Remo-con-mancuernas-1024x576.webp",
+            "video": "44-02931205-Dumbbell-Bent-Over-Row_Back-flat.mp4"
+        },
+        {
+            "id": 45,
+            "titulo": "Remo con barra Z (agarre supino)",
+            "categoria": "Espalda",
+            "descripcion": "El remo con barra Z (agarre supino) es un ejercicio de entrenamiento de fuerza altamente efectivo para desarrollar y fortalecer la espalda, los hombros y los brazos. Además, este ejercicio también puede mejorar tu postura, aumentar la fuerza y mejorar la apariencia física. Si deseas un entrenamiento completo y bien equilibrado para la parte superior del cuerpo, el remo con barra Z (agarre supino) es una excelente opción.",
+            "imagen": "../src/assets/ejercicicios-gym/ejercicios-piernas/45-Remo-con-barra-EZ-agarre-supino-1024x576.webp",
+            "video": "45-13441205-EZ-Bar-Reverse-Grip-Bent-Over-Row_Back-flat.mp4"
+        },
+        {
+            "id": 46,
+            "titulo": "Remo a una mano en polea baja",
+            "categoria": "Espalda",
+            "descripcion": "Si buscas un ejercicio que te ayude a fortalecer la espalda y los brazos, el remo a una mano en polea baja puede ser la opción perfecta para ti. Este ejercicio es excelente para trabajar los músculos de la espalda, incluyendo los trapecios y el deltoides posterior, así como los músculos de los brazos, especialmente el bíceps y el antebrazo.",
+            "imagen": "../src/assets/ejercicicios-gym/ejercicios-piernas/46-Remo-a-una-mano-en-polea-baja-1024x576.webp",
+            "video": "46-01891205-Cable-One-Arm-Bent-over-Row_Back-flat.mp4"
+        },
+        {
+            "id": 47,
+            "titulo": "Remo con barra landmine (agarre V)",
+            "categoria": "Espalda",
+            "descripcion": "Si estás buscando un ejercicio de remo que fortalezca tus músculos de la espalda, brazos y hombros, el remo con barra landmine agarre V es una excelente opción. Este ejercicio es perfecto para aumentar la fuerza y el tono muscular, además de mejorar la postura y la estabilidad. En este artículo, te mostraremos cómo hacer correctamente el ejercicio y algunos consejos útiles para asegurarte de obtener el máximo beneficio.",
+            "imagen": "../src/assets/ejercicicios-gym/ejercicios-piernas/47-Remo-con-barra-agarre-V-1024x576.webp",
+            "video": "47-32001205-Lever-Bent-over-Row-with-V-bar-plate-loaded_Back.mp4"
+        },
+        {
+            "id": 48,
+            "titulo": "Remo a una mano con barra landmine",
+            "categoria": "Espalda",
+            "descripcion": "¿Estás buscando un ejercicio que te ayude a fortalecer los músculos de la espalda, los hombros y los brazos? El remo a una mano con barra landmine puede ser justo lo que necesitas. Este ejercicio es excelente para mejorar la fuerza y la estabilidad de la parte superior del cuerpo, además de ayudarte a mantener una postura adecuada. Sigue leyendo para aprender cómo hacerlo correctamente y algunos consejos para maximizar tus resultados.",
+            "imagen": "../src/assets/ejercicicios-gym/ejercicios-piernas/48-Remo-a-una-mano-con-barra-1024x576.webp",
+            "video": "48-50341205-Landmine-One-Arm-Bent-Over-Row-VERSION-2_Back-fl.mp4"
+        },
+        {
+            "id": 49,
+            "titulo": "Jalón al pecho tras nuca",
+            "categoria": "Espalda",
+            "descripcion": "El jalón al pecho por detrás del cuello es un ejercicio de entrenamiento de fuerza que se enfoca en la espalda, los hombros y los brazos. Este movimiento puede ser un desafío para los principiantes, pero es un ejercicio efectivo para mejorar la postura y la fuerza general en la parte superior del cuerpo. A través de una técnica adecuada y un entrenamiento regular, cualquier persona puede dominar este ejercicio y mejorar su fuerza física.",
+            "imagen": "../src/assets/ejercicicios-gym/ejercicios-piernas/49-Jalon-al-pecho-por-detras-del-cuello-agarre-prono-1024x576.webp",
+            "video": "49-02051205-Cable-Rear-Pulldown_Back-flat.mp4"
+        },
+        {
+            "id": 50,
+            "titulo": "Jalón al pecho a una mano sentado con polea",
+            "categoria": "Espalda",
+            "descripcion": "Si estás buscando fortalecer y tonificar tu espalda, hombros y brazos, el jalon al pecho a una mano sentado con polea es un excelente ejercicio para incluir en tu rutina de entrenamiento. Además, al ser un ejercicio con polea, te permite trabajar los músculos de manera controlada y efectiva, evitando posibles lesiones. ¡Agrega este ejercicio a tu entrenamiento y verás resultados sorprendentes!",
+            "imagen": "../src/assets/ejercicicios-gym/ejercicios-piernas/50-Jalon-al-pecho-a-una-mano-sentado-en-polea-1024x576.webp",
+            "video": "50-12041205-Cable-one-arm-lat-pulldown_back-flat.mp4"
+        },
+        {
+            "id": 51,
+            "titulo": "Encogimiento de hombros en polea",
+            "categoria": "Espalda",
+            "descripcion": "El encogimiento de hombros en polea es un ejercicio altamente efectivo para fortalecer los músculos de los hombros y la parte superior de la espalda. Además de mejorar tus músculos, este ejercicio ayuda a mejorar la postura y la estabilidad de los hombros, lo que puede ser beneficioso para las actividades diarias y deportes. Aprende cómo hacer este ejercicio en el siguiente artículo.",
+            "imagen": "../src/assets/ejercicicios-gym/ejercicios-piernas/51-Encogimiento-de-hombros-en-polea-1024x576.webp",
+            "video": "51-02201205-Cable-Shrug_Back-flat.mp4"
+        },
+        {
+            "id": 52,
+            "titulo": "Encogimiento de hombros en máquina Smith (agarre abierto)",
+            "categoria": "Espalda",
+            "descripcion": "El encogimiento de hombros en máquina Smith con agarre abierto es un excelente ejercicio para fortalecer los músculos de los hombros, trampas y brazos. Haciéndolo de forma correcta, este ejercicio es seguro y efectivo para usuarios de todos los niveles de condición física. ¡Añade este ejercicio a tu rutina de entrenamiento y verás los resultados en poco tiempo!",
+            "imagen": "../src/assets/ejercicicios-gym/ejercicios-piernas/43-Remo-de-pie-con-polea-agarre-prono-cerrado-1024x576.webp",
+            "video": "52-52231205-Smith-Wide-Shrug_Back-flat.mp4"
+        },
+        {
+            "id": 53,
+            "titulo": "Encogimiento de hombros en máquina de discos",
+            "categoria": "Espalda",
+            "descripcion": "El encogimiento de hombros es un ejercicio clave para fortalecer los músculos de la parte superior de la espalda y el cuello. Al hacerlo en una máquina de discos, puedes ajustar fácilmente la resistencia para adaptarla a tus necesidades y objetivos de entrenamiento. En este artículo, aprenderás cómo realizar el encogimiento de hombros en una máquina de discos de manera efectiva para maximizar tus resultados.",
+            "imagen": "../src/assets/ejercicicios-gym/ejercicios-piernas/43-Remo-de-pie-con-polea-agarre-prono-cerrado-1024x576.webp",
+            "video": "53-06041205-Lever-Shrug-plate-loaded_Back-flat.mp4"
+        },
+        {
+            "id": 54,
+            "titulo": "Remo con mancuerna (unilateral)",
+            "categoria": "Espalda",
+            "descripcion": "El remo con mancuerna a una mano es un excelente ejercicio para fortalecer los músculos de la espalda y los brazos, así como mejorar la postura y la estabilidad del cuerpo. Este ejercicio es adecuado tanto para principiantes como para atletas avanzados, y se puede realizar con una variedad de pesos de mancuernas.",
+            "imagen": "../src/assets/ejercicicios-gym/ejercicios-piernas/54-Remo-con-mancuerna-1024x576.webp",
+            "video": "54-02921205-Dumbbell-Bent-over-Row_back_Back-flat.mp4"
+        },
+        {
+            "id": 55,
+            "titulo": "Remo sentado en polea baja (agarre V)",
+            "categoria": "Espalda",
+            "descripcion": "Aprende a hacer correctamente el remo sentado en polea baja y fortalece toda la zona de tu espalda",
+            "imagen": "../src/assets/ejercicicios-gym/espalda/55-Remo-sentado-en-polea-agarre-V-v2-1024x576.webp",
+            "video": "55-26611205-Cable-Seated-Row-with-V-bar_Back-flat.mp4"
+        },
+        {
+            "id": 56,
+            "titulo": "Jalón al pecho agarre abierto",
+            "categoria": "Espalda",
+            "descripcion": "El jalón al pecho agarre abierto es un ejercicio que fortalece los músculos",
+            "imagen": "../src/assets/ejercicicios-gym/espalda/56-Jalon-al-pecho-abierto-agarre-prono-1024x576.webp",
+            "video": "56-01971205-Cable-Pulldown-pro-lat-bar_Back-flat.mp4"
+        },
+        {
+            "id": 57,
+            "titulo": "Dominadas agarre neutro",
+            "categoria": "Espalda",
+            "descripcion": "Dominadas agarre neutro",
+            "imagen": "../src/assets/ejercicicios-gym/espalda/57-Dominadas-agarre-martillo-1024x576.webp",
+            "video": "57-18651205-Hammer-Grip-Pull-up-on-Dip-Cage_Back-flat.mp4"
+        },
+        {
+            "id": 58,
+            "titulo": "Pull-ups o dominadas",
+            "categoria": "Espalda",
+            "descripcion": "Pull-ups o dominadas",
+            "imagen": "../src/assets/ejercicicios-gym/espalda/58-Dominadas-agarre-a-la-altura-del-hombro-1024x576.webp",
+            "video": "58-06521205-Pull-up_Back-flat.mp4"
+        },
+        {
+            "id": 59,
+            "titulo": "Peso muerto rumano con barra",
+            "categoria": "Espalda",
+            "descripcion": "¿Quieres fortalecer tus piernas, glúteos y espalda baja de manera efectiva? El ejercicio peso muerto rumano con barra es la respuesta. Descubre cómo este movimiento compuesto puede transformar tu rutina de entrenamiento y ayudarte a alcanzar tus metas fitness.",
+            "imagen": "../src/assets/ejercicicios-gym/espalda/59-01161105-Barbell-Straight-Leg-Deadlift_Thighs_max-1024x576.jpg",
+            "video": "59-01161105-Barbell-Straight-Leg-Deadlift_Thighs_max-1024x576.jpg"
+        },
+        {
+            "id": 60,
+            "titulo": "Encogimiento de hombros con mancuernas",
+            "categoria": "Espalda",
+            "descripcion": "Ideal para quienes desean trabajar los trapecios, el encogimiento de hombro con mancuernas permite potenciar la musculatura de esta zona del tren superior.",
+            "imagen": "../src/assets/ejercicicios-gym/espalda/60-Encogimiento-de-hombros-con-mancuernas-1024x576.webp",
+            "video": "60-04061205-Dumbbell-Shrug_Back-flat.mp4"
+        },
+        {
+            "id": 61,
+            "titulo": "Remo con barra en banco inclinado",
+            "categoria": "Espalda",
+            "descripcion": "Si buscas ejercitar la espalda a nivel trapecio y al mismo tiempo los músculos de los brazos, el remo con barra en banco inclinado es un genial ejercicio. Es fundamental que aprendas a llevar a cabo de manera correcta la técnica para lograr los objetivos deseados y, así, poder eludir lesiones, contracturas o cualquier tipo de problema. A continuación, te decimos cómo realizar este ejercicio.",
+            "imagen": "../src/assets/ejercicicios-gym/espalda/61.png",
+            "video": "61.png"
+        },
+        {
+            "id": 62,
+            "titulo": "Remo con barra recta",
+            "categoria": "Espalda",
+            "descripcion": "El remo con barra recta se trata de un ejercicio muy completo en donde trabajamos una diversidad de músculos, por ejemplo, los de la zona del abdomen, cadera, espalda baja y espalda alta. A continuación, te decimos cómo realizarlo, así como consejos y errores frecuentes.",
+            "imagen": "../src/assets/ejercicicios-gym/espalda/62-Remo-con-barra-1024x576.webp",
+            "video": "62-00271205-Barbell-Bent-Over-Row_Back-flat.mp4"
+        },
+        {
+            "id": 63,
+            "titulo": "Pullover con mancuerna",
+            "categoria": "Espalda",
+            "descripcion": "El pullover con mancuerna, es uno de los mejores ejercicios que podemos hacer para desarrollar de mejor manera el tamaño de nuestra caja torácica; lo que, además, desarrollará los grupos musculares en el pecho.",
+            "imagen": "../src/assets/ejercicicios-gym/espalda/63-Pullover-con-mancuerna-1024x576.webp",
+            "video": "63-03751205-Dumbbell-Pullover_Chest-flat.mp4"
+        },
+        {
+            "id": 64,
+            "titulo": "Jalón al pecho en polea (agarre semi-abierto)",
+            "categoria": "Espalda",
+            "descripcion": "Durante la polea al pecho, se fortalece en gran medida las diferentes partes de la musculatura correspondientes a la espalda, especialmente la zona dorsal.  También se incluye la musculatura que conforma la escápula y el hombro.",
+            "imagen": "../src/assets/ejercicicios-gym/espalda/64-Jalon-al-pecho-agarre-prono-1024x576.webp",
+            "video": "64-01501205-Cable-Bar-Lateral-Pulldown_Back-flat.mp4"
+        },
+        {
+            "id": 65,
+            "titulo": "Remo en barra T (agarre prono)",
+            "categoria": "Espalda",
+            "descripcion": "Tener una rutina de ejercicio te permite conocer los músculos que vas a trabajar en un día. El remo en barra T es uno de los ejercicios más complejos que existen. Por lo que es recomendable solo para aquellas personas que ya tengan un entrenamiento previo. Así, no tendrán inconvenientes para realizar la rutina.",
+            "imagen": "../src/assets/ejercicicios-gym/espalda/65-Remo-en-barra-T-1024x576.webp",
+            "video": "65-06061205-Lever-T-bar-Row-plate-loaded_Back-flat.mp4.mp4"
+        },
+        {
+            "id": 66,
+            "titulo": "Rotación interna de hombro en polea",
+            "categoria": "Hombro",
+            "descripcion": "Si buscas fortalecer los músculos de tus hombros, la rotación interna de hombro en polea puede ser una excelente opción. Este ejercicio te ayudará a mejorar la estabilidad articular y la fuerza en la zona del hombro. Además, es un ejercicio que puedes realizar con una máquina de polea, lo que te permite ajustar la resistencia y personalizar el entrenamiento. A continuación, te explicaremos cómo hacer correctamente este ejercicio y algunos consejos útiles para obtener los mejores resultados.",
+            "imagen": "../src/assets/ejercicicios-gym/hombro/66-Rotacion-interna-de-hombro-en-polea-1024x576.webp",
+            "video": "66-50881205-Cable-Shoulder-Internal-Rotation_Shoulders-flat.mp4.mp4"
+        },
+        {
+            "id": 67,
+            "titulo": "Rotación externa de hombro en polea",
+            "categoria": "Hombro",
+            "descripcion": "¿Quieres mejorar la fuerza y la movilidad de tus hombros? La rotación externa de hombro en polea es un ejercicio efectivo para lograrlo. Este ejercicio utiliza una máquina de polea para proporcionar resistencia a medida que giras el brazo, lo que fortalece los músculos del hombro y mejora la estabilidad articular. A continuación, te mostraremos cómo hacer este ejercicio correctamente y algunos consejos para obtener los mejores resultados.",
+            "imagen": "../src/assets/ejercicicios-gym/hombro/67-Rotacion-externa-de-hombro-en-polea-1024x576.webp",
+            "video": "67-02351205-Cable-Standing-Shoulder-External-Rotation_Back-fla.mp4"
+        },
+        {
+            "id": 68,
+            "titulo": "Rotación externa de hombro con mancuerna",
+            "categoria": "Hombro",
+            "descripcion": "La rotación externa de hombro con mancuerna es un ejercicio eficaz para calentar los músculos del hombro y mejorar la movilidad de esta articulación. Además, es un ejercicio simple que se puede hacer en casa o en el gimnasio con una mancuerna. A continuación, te mostraremos cómo hacer correctamente este ejercicio y algunos consejos útiles para obtener los mejores resultados.",
+            "imagen": "../src/assets/ejercicicios-gym/hombro/68-Rotacion-externa-con-mancuerna-1024x576.webp",
+            "video": "68-36841205-Dumbbell-External-Rotation_Back-flat.mp4"
+        },
+        {
+            "id": 69,
+            "titulo": "Remo de deltoides posterior con mancuerna",
+            "categoria": "Hombro",
+            "descripcion": "Si estás buscando una manera efectiva de fortalecer tus deltoides posteriores, el remo de deltoides posterior con mancuerna es un ejercicio excelente que debes probar. Este movimiento aislado te ayudará a desarrollar y tonificar la parte posterior de tus hombros, lo que puede mejorar tu postura y tu rendimiento en otros ejercicios compuestos.",
+            "imagen": "../src/assets/ejercicicios-gym/hombro/69-Remo-posterior-con-mancuerna-1024x576.webp",
+            "video": "69-03771205-Dumbbell-Rear-Delt-Row_shoulder-flat.mp4"
+        },
+        {
+            "id": 70,
+            "titulo": "Press militar de pie en máquina Smith",
+            "categoria": "Hombro",
+            "descripcion": "El press militar de pie en máquina Smith es un ejercicio efectivo para trabajar los hombros y los tríceps. Este ejercicio puede ser una excelente opción para aquellos que buscan aumentar la fuerza y el tamaño de los hombros. En este artículo, aprenderás cómo hacer correctamente el press militar de pie en máquina Smith y algunos consejos útiles para maximizar los resultados.",
+            "imagen": "../src/assets/ejercicicios-gym/hombro/70-Press-militar-de-pie-en-maquina-Smith-1024x576.webp",
+            "video": "70-07741205-Smith-Standing-Military-Press_Shoulders-flat.mp4"
+        },
+        {
+            "id": 71,
+            "titulo": "Press de hombros sentado con mancuernas (agarre neutro)",
+            "categoria": "Hombro",
+            "descripcion": "Si estás buscando un ejercicio que te ayude a fortalecer tus hombros y brazos, el press de hombros sentado con mancuernas (agarre neutro) es una excelente opción. Este ejercicio puede ayudarte a mejorar tu fuerza y resistencia en la parte superior del cuerpo, lo que te permitirá realizar actividades diarias con mayor facilidad.",
+            "imagen": "../src/assets/ejercicicios-gym/hombro/71-Press-de-hombros-sentado-con-mancuernas-1024x576.webp",
+            "video": "71-04041205-Dumbbell-Seated-Shoulder-Press-parallel-grip_Sho.mp4"
+        },
+        {
+            "id": 72,
+            "titulo": "Press de hombros tras nuca en máquina Smith",
+            "categoria": "Hombro",
+            "descripcion": "Si buscas un ejercicio que te ayude a desarrollar tus hombros, el press de hombros tras nuca en máquina Smith es una excelente opción. Este movimiento se enfoca en los deltoides y también involucra los músculos de la parte superior de la espalda y del cuello. En este ejercicio, podrás ajustar la altura de la barra y la posición del asiento de la máquina Smith para adaptarlo a tu cuerpo y garantizar una técnica correcta.",
+            "imagen": "../src/assets/ejercicicios-gym/hombro/72-Press-de-hombros-detras-del-cuello-en-maquina-Smith-1024x576.webp",
+            "video": "72-07471205-Smith-Behind-Neck-Press_Shoulders-flat.mp4"
+        },
+        {
+            "id": 73,
+            "titulo": "Press Arnold con mancuernas",
+            "categoria": "Hombro",
+            "descripcion": "El press arnold con mancuernas es un ejercicio efectivo para fortalecer los hombros y mejorar la estabilidad del core. Además, puede ayudar a mejorar la postura y prevenir lesiones en los hombros. En este artículo, aprenderás cómo hacer correctamente el press arnold con mancuernas y algunos consejos para maximizar tus resultados.",
+            "imagen": "../src/assets/ejercicicios-gym/hombro/73-Press-arnold-con-mancuernas-1024x576.webp",
+            "video": "73-21371205-Dumbbell-Arnold-Press_Shoulders-flat.mp4"
+        },
+        {
+            "id": 74,
+            "titulo": "Pike Push-Up",
+            "categoria": "Hombro",
+            "descripcion": "Si estás buscando un ejercicio efectivo para fortalecer tus hombros y tríceps sin necesidad de equipo, el pike push up es perfecto para ti. Este movimiento desafiante es ideal para aquellos que quieren aumentar su fuerza y definición muscular en la parte superior del cuerpo. Además, puedes hacerlo desde la comodidad de tu hogar o en cualquier lugar que prefieras. ¡Anímate a probarlo y verás resultados sorprendentes en poco tiempo!",
+            "imagen": "../src/assets/ejercicicios-gym/hombro/74-Pike-Push-Up-1024x576.webp",
+            "video": "74-29211205-Pike-Push-up_Chest-flat.mp4"
+        },
+        {
+            "id": 75,
+            "titulo": "Hang Power Clean con mancuernas",
+            "categoria": "Hombro",
+            "descripcion": "¿Estás buscando un ejercicio para mejorar tu fuerza, coordinación y explosividad? El Hang Power Clean con mancuernas es una excelente opción para desafiarte a ti mismo y llevar tus entrenamientos al siguiente nivel. Este ejercicio es ideal para trabajar los músculos de todo el cuerpo, especialmente los de la parte inferior y superior.",
+            "imagen": "../src/assets/ejercicicios-gym/hombro/75-Hang-Power-Clean-con-mancuernas-1024x576.webp",
+            "video": "75-47391205-Dumbbell-Hang-Power-Clean_Weightlifting-flat.mp4"
+        },
+        {
+            "id": 76,
+            "titulo": "Clean and jerk con barra",
+            "categoria": "Hombro",
+            "descripcion": "El Clean and Jerk con barra es uno de los movimientos más técnicos y complejos del levantamiento de pesas. A menudo utilizado en competiciones de halterofilia, este ejercicio involucra una combinación de levantamiento de peso muerto, power clean y press de hombros en una sola secuencia. A continuación, te enseñamos cómo hacerlo en 4 pasos.",
+            "imagen": "../src/assets/ejercicicios-gym/hombro/76-Clean-and-Jerk-con-barra-1024x576.webp",
+            "video": "76-51901205-Barbell-Clean-and-Jerk_Weightlifting-flat.mp4"
+        },
+        {
+            "id": 77,
+            "titulo": "Clean and jerk a una mano con pesa rusa",
+            "categoria": "Hombro",
+            "descripcion": "El Clean and Jerk a una mano con pesa rusa es un ejercicio sumamente desafiante que trabaja varios grupos musculares y mejora la coordinación y la estabilidad. Este movimiento olímpico puede parecer intimidante al principio, pero con la técnica adecuada y la práctica suficiente, puede ser una adición valiosa a cualquier programa de entrenamiento.",
+            "imagen": "../src/assets/ejercicicios-gym/hombro/77-Clean-and-Jerk-a-una-mano-con-pesa-rusa-1024x576.webp",
+            "video": "77-05371205-Kettlebell-One-Arm-Clean-and-Jerk_Shoulders-flat.mp4"
+        },
+        {
+            "id": 78,
+            "titulo": "Aperturas posteriores en polea",
+            "categoria": "Hombro",
+            "descripcion": "Las aperturas posteriores en polea con ambas manos son un ejercicio efectivo para fortalecer y tonificar los músculos de la espalda y los hombros. En este ejercicio, se utiliza una polea para crear resistencia mientras se realizan movimientos de apertura con ambos brazos. A continuación, te detallamos los pasos para realizar este ejercicio de manera correcta.",
+            "imagen": "../src/assets/ejercicicios-gym/hombro/78-Aperturas-posteriores-en-polea-1024x576.webp",
+            "video": "78-02251205-Cable-Standing-Cross-over-High-Reverse-Fly_Shoulde.mp4"
+        },
+        {
+            "id": 79,
+            "titulo": "Landmine Squat and Press",
+            "categoria": "Hombro",
+            "descripcion": "El Landmine Squat and Press es un ejercicio de fuerza compuesto que involucra varios grupos musculares y es ideal para desarrollar la fuerza y la resistencia. Este ejercicio se realiza utilizando una barra landmine. Es importante conocer la técnica adecuada para evitar lesiones y maximizar los beneficios del ejercicio.",
+            "imagen": "../src/assets/ejercicicios-gym/hombro/79-Sentadilla-y-press-con-barra-landmine-1024x576.webp",
+            "video": "79-29761205-Landmine-Squat-and-Press-flat.mp4"
+        },
+        {
+            "id": 80,
+            "titulo": "Vuelos posteriores en banco inclinado con mancuernas",
+            "categoria": "Hombro",
+            "descripcion": "Vuelos posteriores en banco inclinado con mancuernas",
+            "imagen": "../src/assets/ejercicicios-gym/hombro/80-Vuelos-en-banco-inclinado-con-mancuernas-1024x576.webp",
+            "video": "80-03831205-Dumbbell-Reverse-Fly_Shoulders-flat.mp4"
+        },
+        {
+            "id": 81,
+            "titulo": "Press de hombros en máquina Smith",
+            "categoria": "Hombro",
+            "descripcion": "Hoy haremos uno de los ejercicios más populares en el gimnasio. Se trata del press de hombros o press militar, y en esta ocasión, utilizaremos la máquina Smith para ejecutar el movimiento.",
+            "imagen": "../src/assets/ejercicicios-gym/hombro/81-Press-de-hombros-sentado-en-maquina-Smith-1024x576.webp",
+            "video": "81-07651205-Smith-Seated-Shoulder-Press_Shoulders-flat.mp4"
+        },
+        {
+            "id": 82,
+            "titulo": "Aperturas invertidas en máquina",
+            "categoria": "Hombro",
+            "descripcion": "Aperturas invertidas en máquina",
+            "imagen": "../src/assets/ejercicicios-gym/hombro/82-Deltoides-posterior-sentado-en-maquina-1024x576.webp",
+            "video": "82-06021205-Lever-Seated-Reverse-Fly_Shoulders-flat.mp4"
+        },
+        {
+            "id": 83,
+            "titulo": "Press de hombros sentado en máquina",
+            "categoria": "Hombro",
+            "descripcion": "Press de hombros sentado en máquina",
+            "imagen": "../src/assets/ejercicicios-gym/hombro/83-Press-inclinado-en-maquina-agarre-martillo-1024x576.webp",
+            "video": "83-14541205-Lever-Seated-Shoulder-Press_Shoulders-flat.mp4"
+        },
+        {
+            "id": 84,
+            "titulo": "Elevaciones laterales en polea baja",
+            "categoria": "Hombro",
+            "descripcion": "El levantamiento de hombros lateral en polea es uno de los ejercicios más efectivos para desarrollar tus deltoides específicamente la parte lateral. Es ideal incluir al menos un ejercicio lateral en tus rutinas de hombro, para darle redondez y la «forma 3D» a tus deltoides.",
+            "imagen": "../src/assets/ejercicicios-gym/hombro/84-Elevaciones-laterales-en-polea-1024x576.webp",
+            "video": "84-01781205-Cable-Lateral-Raise_shoulder.mp4"
+        },
+        {
+            "id": 85,
+            "titulo": "Press cubano con mancuernas",
+            "categoria": "Hombro",
+            "descripcion": "Sin duda el press cubano es un increíble ejercicio para implementar en nuestra rutina si deseamos trabajar los hombros; pese a ello, no es uno de los más conocidos, aún cuando potencia la musculatura de los hombros de una forma realmente efectiva.",
+            "imagen": "../src/assets/ejercicicios-gym/hombro/85-Press-cubano-con-mancuernas-1024x576.webp",
+            "video": "85-21361205-Dumbbell-Cuban-Press-version-2_Shoulders-flat.mp4"
+        },
+        {
+            "id": 86,
+            "titulo": "Elevaciones posteriores con mancuernas",
+            "categoria": "Hombro",
+            "descripcion": "Las elevaciones posteriores con mancuernas o también conocidos como «pájaros» con mancuernas son un ejercicio que nos va a permitir fortalecer y, en general, trabajar la región de los hombros, lo que hará que se vean más definidos y presenten mayor resistencia.",
+            "imagen": "../src/assets/ejercicicios-gym/hombro/86-elevaciones-posteriores-1024x576.png",
+            "video": "../src/assets/ejercicicios-gym/hombro/86-Elevaciones-posteriores-con-mancuernas-1024x578.jpg"
+        },
+        {
+            "id": 87,
+            "titulo": "Elevaciones laterales con mancuernas",
+            "categoria": "Hombro",
+            "descripcion": "Las elevaciones laterales de brazos con mancuernas es uno de los ejercicios más frecuentes en todos y cada uno de los gimnasios para trabajar el deltoides lateral. Asimismo, se ven implicados el trapecio y el deltoides anterior, esto es, la parte delantera de los dos músculos. Solo precisarás dos mancuernas del peso que mejor se adapte a ti para efectuar este entrenamiento en casa o bien en el gimnasio.",
+            "imagen": "../src/assets/ejercicicios-gym/hombro/87-Elevaciones-laterales-de-hombros-con-mancuernas-1024x576.webp",
+            "video": "87-03341205-Dumbbell-Lateral-Raise_shoulder-flat.mp4"
+        },
+        {
+            "id": 88,
+            "titulo": "Elevación frontal con mancuernas",
+            "categoria": "Hombro",
+            "descripcion": "La elevación frontal con mancuernas es un ejercicio ideal para trabajar la parte de los trapecios, a la vez que fortalecemos diversos grupos musculares de los brazos, como la región de los hombros; incluso, podrás moldear la región del pectoral mayor superior. A continuación, te decimos cómo llevarlo a cabo, así como conejos y errores frecuentes en su realización:",
+            "imagen": "../src/assets/ejercicicios-gym/hombro/88-Elevaciones-frontales-con-mancuernas-de-pie-1024x576.webp",
+            "video": "88-03101205-Dumbbell-Front-Raise_Shoulders-flat.mp4"
+        },
+        {
+            "id": 89,
+            "titulo": "Remo con barra en banco inclinado",
+            "categoria": "Hombro",
+            "descripcion": "Si buscas ejercitar la espalda a nivel trapecio y al mismo tiempo los músculos de los brazos, el remo con barra en banco inclinado es un genial ejercicio. Es fundamental que aprendas a llevar a cabo de manera correcta la técnica para lograr los objetivos deseados y, así, poder eludir lesiones, contracturas o cualquier tipo de problema. A continuación, te decimos cómo realizar este ejercicio.",
+            "imagen": "../src/assets/ejercicicios-gym/hombro/89-Remo-con-barra-en-banco-inclinado-1024x576.jpg",
+            "video": "../src/assets/ejercicicios-gym/hombro/89-ui-1024x576.png"
+        },
+        {
+            "id": 90,
+            "titulo": "Press militar con mancuernas o barra",
+            "categoria": "Hombro",
+            "descripcion": "El press militar permite lograr un correcto trabajo del tren superior, con múltiples ejercicios que se pueden realizar para el trabajo de los hombros 3D que tanto deseas.",
+            "imagen": "../src/assets/ejercicicios-gym/hombro/90-Press-militar-sentado-con-mancuernas-1024x576.webp",
+            "video": "90-04051205-Dumbbell-Seated-Shoulder-Press_Shoulders-flat.mp4"
+        },
+        {
+            "id": 91,
+            "titulo": "Remo al cuello con polea baja",
+            "categoria": "Hombro",
+            "descripcion": "Hacer ejercicio continuamente puede ayudarnos a descargar adrenalina y mejorar nuestra figura. Realizar el remo al cuello con polea baja es un entrenamiento ideal para los músculos de la parte superior. Asimismo, permite tonificar y quemar grasas que te permitirán lucir un cuerpo más esbelto.",
+            "imagen": "../src/assets/ejercicicios-gym/hombro/91-Remo-superior-en-polea-1024x576.webp",
+            "video": "91-02461205-Cable-Upright-Row_shoulder-flat.mp4"
+        }
+        ,
+        {
+            "id": 92,
+            "titulo": "Press francés con polea baja",
+            "categoria": "Triceps",
+            "descripcion": "Si buscas un ejercicio para fortalecer tus tríceps y aumentar la fuerza en tus brazos, el press francés con polea baja puede ser justo lo que necesitas. Este ejercicio es excelente para trabajar los músculos de los brazos y mejorar la estabilidad en los hombros.",
+            "imagen": "../src/assets/ejercicicios-gym/triceps/92-Press-frances-con-polea-acostado-en-banco.webp",
+            "video": "92-52431205-Cable-Lying-Triceps-Extension-Low_Upper-Arms-fla-1.mp4"
+        }
+        ,
+        {
+            "id": 93,
+            "titulo": "Press de copa con mancuerna de pie",
+            "categoria": "Triceps",
+            "descripcion": "El press de copa con mancuerna de pie es un ejercicio de aislamiento que fortalece y tonifica los músculos de los tríceps. Es un ejercicio efectivo para lograr brazos más fuertes y definidos. Este ejercicio es ideal para aquellos que desean mejorar su rendimiento en deportes que requieren una gran fuerza en los brazos, como el levantamiento de pesas o la gimnasia. Con la técnica adecuada, puedes lograr grandes resultados en poco tiempo.",
+            "imagen": "../src/assets/ejercicicios-gym/triceps/93-Press-de-copa-con-mancuerna-de-pie.webp",
+            "video": "93-04301205-Dumbbell-Standing-Triceps-Extension_Upper-Arms-flat.mp4"
+        },
+        {
+            "id": 94,
+            "titulo": "Press cerrado en banco inclinado",
+            "categoria": "Triceps",
+            "descripcion": "Si buscas un ejercicio efectivo para trabajar tus tríceps, el press cerrado en banco inclinado es una excelente opción. Este ejercicio se enfoca en la cabeza larga del tríceps y ayuda a desarrollar fuerza y ​​tamaño en esta área. Además, al ser un ejercicio de press, también involucra los hombros y el pecho. ¡Añádelo a tu rutina de entrenamiento para conseguir unos brazos más fuertes y definidos!",
+            "imagen": "../src/assets/ejercicicios-gym/triceps/94-Press-de-banca-cerrado-en-banco-inclinado.webp",
+            "video": "94-17191205-Barbell-Incline-Close-Grip-Bench-Press_Upper-Arms-.mp4"
+        },
+        {
+            "id": 95,
+            "titulo": "Patada de tríceps con mancuerna",
+            "categoria": "Triceps",
+            "descripcion": "¿Estás buscando un ejercicio efectivo para fortalecer tus tríceps? La patada de tríceps con mancuerna puede ser justo lo que necesitas. Este ejercicio es simple pero muy efectivo y puede ayudarte a tonificar y fortalecer tus brazos en poco tiempo. En este artículo, te explicaremos cómo hacer correctamente la patada de tríceps con mancuerna y te daremos algunos consejos útiles para maximizar tus resultados.",
+            "imagen": "../src/assets/ejercicicios-gym/triceps/95-Patada-de-triceps-a-una-mano-con-mancuerna-de-pie.webp",
+            "video": "95-03541205-Dumbbell-One-Arm-Kickback_Upper-Arms-flat.mp4"
+        },
+        {
+            "id": 96,
+            "titulo": "Flexiones sobre los antebrazos",
+            "categoria": "Triceps",
+            "descripcion": "Si estás buscando un ejercicio efectivo para fortalecer tus brazos, hombros y pecho, las flexiones sobre los antebrazos son la respuesta. Este ejercicio te ayuda a desarrollar fuerza y ​​estabilidad en tus músculos superiores, mientras también trabajas en tu equilibrio y coordinación. Con solo unos pocos minutos al día, puedes mejorar tu fuerza y ​​condición física general.",
+            "imagen": "../src/assets/ejercicicios-gym/triceps/96-Flexiones-sobre-los-antebrazos.webp",
+            "video": "96-14671205-Push-up-on-Forearms_Upper-Arms-flat.mp4"
+        },
+        {
+            "id": 97,
+            "titulo": "Flexiones Diamante",
+            "categoria": "Triceps",
+            "descripcion": "Las flexiones diamante son una variante desafiante de las flexiones regulares que se enfocan en el fortalecimiento de los tríceps, hombros y pecho. Este ejercicio es ideal para aquellos que buscan tonificar y fortalecer sus brazos y pecho.",
+            "imagen": "../src/assets/ejercicicios-gym/triceps/97-Flexiones-diamante.webp",
+            "video": "97-02831205-Diamond-Push-up_Upper-Arms-flat.mp4"
+        },
+        {
+            "id": 98,
+            "titulo": "Flexiones diamante de rodillas",
+            "categoria": "Triceps",
+            "descripcion": "Las flexiones diamante de rodillas son un excelente ejercicio para fortalecer los tríceps y el pecho. Esta variante de las flexiones es ideal para aquellos que están comenzando su camino en el mundo del fitness o que desean fortalecer su núcleo antes de pasar a la versión tradicional. Además, no se requiere equipo adicional, lo que lo convierte en un ejercicio accesible y efectivo que se puede hacer en cualquier momento y en cualquier lugar.",
+            "imagen": "../src/assets/ejercicicios-gym/triceps/98-Flexiones-de-diamante-de-rodilals.webp",
+            "video": "98-11741205-Diamond-Push-up-on-knees_Upper-Arms-flat.mp4"
+        },
+        {
+            "id": 99,
+            "titulo": "Extensión de tríceps sobre la cabeza con polea (versión 2)",
+            "categoria": "Triceps",
+            "descripcion": "Si estás buscando una forma efectiva de fortalecer tus tríceps, la extensión de tríceps sobre la cabeza con polea puede ser justo lo que necesitas. Este ejercicio es excelente para apuntar a la parte posterior de tus brazos y mejorar la fuerza y definición en esa zona. Además, se puede realizar fácilmente en cualquier gimnasio con una polea de cable.",
+            "imagen": "../src/assets/ejercicicios-gym/triceps/99-Extension-de-triceps-sobre-la-cabeza-con-polea.webp",
+            "video": "99-01941205-Cable-Overhead-Triceps-Extension-rope-attachment.mp4"
+        },
+        {
+            "id": 100,
+            "titulo": "Extensión de tríceps en polea (agarre supino)",
+            "categoria": "Triceps",
+            "descripcion": "Si estás buscando un ejercicio efectivo para trabajar tus tríceps, la extensión de tríceps en polea agarre supino puede ser justo lo que necesitas. Este movimiento apunta directamente a los tríceps, lo que te permitirá fortalecer y tonificar estos músculos de manera efectiva. Además, al usar una polea con agarre supino, también estás trabajando la parte superior de los brazos, lo que puede ayudar a mejorar tu fuerza general. ¡Así que prepárate para sentir el quemazón!",
+            "imagen": "../src/assets/ejercicicios-gym/triceps/100-Extension-de-triceps-en-polea-agarre-supino.webp",
+            "video": "100-16061205-Cable-Reverse-Grip-Triceps-Pushdown-SZ-bar_Upper.mp4"
+        },
+        {
+            "id": 101,
+            "titulo": "Extensión de tríceps en máquina de apalancamiento",
+            "categoria": "Triceps",
+            "descripcion": "¿Quieres fortalecer tus tríceps y obtener unos brazos más grandes y definidos? El ejercicio de extensión de tríceps en máquina de apalancamiento es una excelente opción para lograr ese objetivo. Este ejercicio se enfoca específicamente en el tríceps y permite un mayor control en el movimiento para evitar lesiones y maximizar el trabajo muscular. ¡Agrega este ejercicio a tu rutina de entrenamiento y comienza a ver resultados impresionantes en tus brazos!",
+            "imagen": "../src/assets/ejercicicios-gym/triceps/101-Extension-de-triceps-en-maquina-de-apalancamiento.webp",
+            "video": "101-10331205-Lever-Triceps-Extension_Upper-Arms.mp4"
+        },
+        {
+            "id": 102,
+            "titulo": "Extensión de tríceps concentrado en máquina",
+            "categoria": "Triceps",
+            "descripcion": "La extensión de tríceps concentrada en máquina es un ejercicio ideal para fortalecer y tonificar los músculos de los brazos. Si deseas mejorar tu fuerza y definición en los tríceps, este ejercicio es perfecto para ti. Además, la máquina proporciona una estabilidad adicional para enfocarte en el movimiento correcto y evitar lesiones.",
+            "imagen": "../src/assets/ejercicicios-gym/triceps/102-Extension-de-triceps-concentrado-en-maquina.webp",
+            "video": "102-06071205-Lever-Triceps-Extension_Upper-Arms-flat.mp4"
+        },
+        {
+            "id": 103,
+            "titulo": "Rompecráneos con mancuernas",
+            "categoria": "Triceps",
+            "descripcion": "El ejercicio «rompecraneos con mancuernas» es un ejercicio de aislamiento del tríceps que puede ayudarte a fortalecer y tonificar tus brazos. Al involucrar la flexión y extensión del codo, es un ejercicio muy efectivo para trabajar los músculos del tríceps. Además, puedes realizarlo en cualquier lugar, ya sea en el gimnasio o en casa con unas mancuernas.",
+            "imagen": "../src/assets/ejercicicios-gym/triceps/103-Extension-de-triceps-ambas-manos-acostado-en-banco.webp",
+            "video": "103-03511205-Dumbbell-Lying-Triceps-Extension_Upper-Arms-flat.mp4"
+        },
+        {
+            "id": 104,
+            "titulo": "Extensiones de tríceps con agarre en V en polea",
+            "categoria": "Triceps",
+            "descripcion": "Si estás buscando una forma efectiva de trabajar tus tríceps, el ejercicio de extensión de tríceps con agarre en V en polea es una excelente opción. Este ejercicio se enfoca en la cabeza larga del tríceps, ayudándote a desarrollar brazos más fuertes y definidos. Además, al usar la polea, puedes controlar mejor el peso y el movimiento para evitar lesiones.",
+            "imagen": "../src/assets/ejercicicios-gym/triceps/104-Extension-de-triceps-con-agarre-v-en-polea.webp",
+            "video": "104-02411205-Cable-Triceps-Pushdown-V-bar-attachment_Upper-Ar.mp4"
+        },
+        {
+            "id": 105,
+            "titulo": "Extensión de tríceps acostado con mancuerna",
+            "categoria": "Triceps",
+            "descripcion": "¿Quieres aumentar la fuerza y definición de tus tríceps? Entonces, la extensión de tríceps acostado a una mano es un excelente ejercicio para lograrlo. Este ejercicio se enfoca en la cabeza larga del tríceps y se puede hacer con mancuernas o con una pesa rusa, lo que lo hace una opción versátil para incluir en tu rutina de entrenamiento.",
+            "imagen": "../src/assets/ejercicicios-gym/triceps/105-Extension-de-triceps-acostado-a-una-mano-agarre-supino.webp",
+            "video": "105-03461205-Dumbbell-Lying-One-Arm-Supinated-Triceps-Extension_Upper-Arms-flat.mp4"
+        },
+        {
+            "id": 106,
+            "titulo": "Extensión de tríceps a una mano en polea (agarre cuerda)",
+            "categoria": "Triceps",
+            "descripcion": "¿Quieres fortalecer y tonificar tus tríceps de manera efectiva? Entonces la extensión de tríceps a una mano en polea agarre cuerda es el ejercicio perfecto para ti. Este ejercicio te permite trabajar un brazo a la vez y enfocarte en la cabeza lateral del tríceps para obtener unos brazos definidos y fuertes. Además, el agarre con cuerda te permite una mayor variedad de movimiento y mayor estabilidad durante el ejercicio.",
+            "imagen": "../src/assets/ejercicicios-gym/triceps/106-Extension-de-triceps-a-una-mano-en-polea-agarre-cuerda.webp",
+            "video": "106-12271205-Cable-Standing-One-Arm-Tricep-Pushdown-Overhand-G.mp4"
+        },
+        {
+            "id": 107,
+            "titulo": "Extensión de triceps con mancuernas acostado (agarre prono)",
+            "categoria": "Triceps",
+            "descripcion": "La extensión de tríceps con mancuernas acostado (agarre prono) es un ejercicio efectivo para trabajar los músculos tríceps, que se encuentran en la parte posterior del brazo. Al realizar este ejercicio, se fortalecen y tonifican los tríceps, lo que ayuda a mejorar la fuerza y la estabilidad del brazo.",
+            "imagen": "../src/assets/ejercicicios-gym/triceps/107-skullcrusher-con-mancuernas.webp",
+            "video": "107-03731205-Dumbbell-Pronate-grip-Triceps-Extension_Upper-Arms-flat.mp4"
+        },
+        {
+            "id": 108,
+            "titulo": "Extensión de tríceps a un brazo en polea baja",
+            "categoria": "Triceps",
+            "descripcion": "¿Quieres unos tríceps fuertes y definidos? La extensión de tríceps a un brazo en polea baja es el ejercicio perfecto para lograrlo. Descubre cómo este movimiento desafía tus tríceps y te ayuda a alcanzar unos brazos tonificados. ¡Prepárate para sentir la quema y el crecimiento en tus tríceps!",
+            "imagen": "../src/assets/ejercicicios-gym/triceps/108-01491105-Cable-Alternate-Triceps-Extension_Upper-Arms_max-1024x576.jpg",
+            "video": "../src/assets/ejercicicios-gym/triceps/108-01491105-Cable-Alternate-Triceps-Extension_Upper-Arms_max-1024x576.jpg"
+        },
+        {
+            "id": 109,
+            "titulo": "Press de banca con agarre cerrado",
+            "categoria": "Triceps",
+            "descripcion": "El Press de banca con agarre cerrado, nos va a permitir trabajar la zona principalmente del  tríceps braquial, así como el pectoral mayor esternal (inferior), pectoral mayor clavicular (superior) y deltoides anterior como sinergistas.",
+            "imagen": "../src/assets/ejercicicios-gym/triceps/109-Press-cerrado-para-triceps.webp",
+            "video": "109-00301205-Barbell-Close-Grip-Bench-Press_Upper-Arms.mp4"
+        },
+        {
+            "id": 110,
+            "titulo": "Fondos en banco plano",
+            "categoria": "Triceps",
+            "descripcion": "Los fondos en banco plano ayudan a fortalecer los músculos de los tríceps; pues básicamente es con estos que realizamos la elevación del cuerpo. Los músculos que se trabajan en este ejercicio son los tríceps, en menor medida los bíceps y la región de los hombros e, incluso, los cuadríceps y glúteos en menor medida (que sostendrán la parte inferior del cuerpo).",
+            "imagen": "../src/assets/ejercicicios-gym/triceps/110-Fondos-en-banco-para-triceps.webp",
+            "video": "110-13991205-Bench-dip-on-floor_Upper-Arms-flat.mp4"
+        },
+        {
+            "id": 111,
+            "titulo": "Extensión de tríceps tras nuca con mancuerna (sentado)",
+            "categoria": "Triceps",
+            "descripcion": "La extensión de tríceps tras nuca con mancuerna, a semejanza de otras variantes de la elevación tras nuca, es un ejercicio enfocado a trabajar la musculatura de la espalda, los hombros y los brazos, permitiendo incluirla en diversas rutinas que buscan potenciar la musculatura del tren superior.",
+            "imagen": "../src/assets/ejercicicios-gym/triceps/111-Press-de-copa-sentado-con-mancuerna.webp",
+            "video": "111-21881205-Dumbbell-Seated-Triceps-Extension_Upper-Arms-flat.mp4"
+        },
+        {
+            "id": 112,
+            "titulo": "Extensión de tríceps en polea alta",
+            "categoria": "Triceps",
+            "descripcion": "Poner en forma tu cuerpo implica que debes trabajar todo el cuerpo. Sin embargo, en algunos ejercicios descuidamos algunos músculos. La extensión de tríceps en polea alta, se centra en estos músculos tan importantes. Consigue tríceps más grandes trabajando correctamente este músculo con las extensiones de tríceps en polea alta:",
+            "imagen": "../src/assets/ejercicicios-gym/triceps/112-24381105-Cable-Pushdown-with-rope-attachment-female_Upper-Arms_max-1024x576.jpg",
+            "video": "../src/assets/ejercicicios-gym/triceps/112-24381105-Cable-Pushdown-with-rope-attachment-female_Upper-Arms_max-1024x576.jpg"
+        },
+        {
+            "id": 113,
+            "titulo": "Press francés en banco plano",
+            "categoria": "Triceps",
+            "descripcion": "El press francés o rompecráneos es un ejercicio completamente de aislamiento que ha sido utilizado de muchas formas en el mundo deportivo, a través de diferentes tipos de levantamiento de pesas. De hecho, es uno de los ejercicios que genera mayor estimulación a nivel del grupo muscular del tríceps.",
+            "imagen": "../src/assets/ejercicicios-gym/triceps/113-26921105-Barbell-Lying-Triceps-Extension-female_Upper-Arms_max-1024x576.jpg",
+            "video": "../src/assets/ejercicicios-gym/triceps/113-26921105-Barbell-Lying-Triceps-Extension-female_Upper-Arms_max-1024x576.jpg"
+        },
+        {
+            "id": 114,
+            "titulo": "Curl predicador con polea",
+            "categoria": "Biceps",
+            "descripcion": "El curl predicador con polea es un ejercicio efectivo para desarrollar bíceps más grandes y definidos. Utilizando una polea en lugar de una barra o mancuerna, se mantiene una tensión constante en los bíceps a lo largo de todo el rango de movimiento. Aprende cómo hacer este ejercicio correctamente para maximizar sus beneficios y obtener los resultados que deseas.",
+            "imagen": "../src/assets/ejercicicios-gym/biceps/114-Curl-predicador-con-polea.webp",
+            "video": "../src/assets/ejercicicios-gym/biceps/114-Curl-predicador-con-polea.webp"
+        },
+        {
+            "id": 115,
+            "titulo": "Curl predicador a una mano con mancuerna",
+            "categoria": "Biceps",
+            "descripcion": "El curl predicador a una mano con mancuerna es un excelente ejercicio unilateral para fortalecer los bíceps y mejorar el aislamiento muscular en el área del codo. Además, al trabajar un brazo a la vez, puedes corregir desequilibrios musculares y obtener un mejor control y estabilidad en los movimientos. ¡Agrega este ejercicio a tu rutina de entrenamiento de brazos y experimenta el aumento de la fuerza y el tamaño en tus bíceps!",
+            "imagen": "../src/assets/ejercicicios-gym/biceps/115-Curl-predicador-a-una-mano-con-mancuerna.webp",
+            "video": "115-52981205-Dumbbell-Preacher-Curl-Turned-Torso_Upper-Arms-f.mp4"
+        },
+        {
+            "id": 116,
+            "titulo": "Curl martillo en polea (con cuerda)",
+            "categoria": "Biceps",
+            "descripcion": "El curl en polea agarre neutro con cuerda es un ejercicio eficaz para trabajar los bíceps, antebrazos y muñecas. Además, es una excelente opción para aquellos que buscan variar su rutina de entrenamiento y agregar un poco de diversidad a su entrenamiento de bíceps.",
+            "imagen": "../src/assets/ejercicicios-gym/biceps/116-Curl-de-martillo.webp",
+            "video": "116-01651205-Cable-Hammer-Curl-with-rope-male_Forearms-flat.mp4"
+        },
+        {
+            "id": 117,
+            "titulo": "Curl concentrado con mancuerna agarre prono",
+            "categoria": "Biceps",
+            "descripcion": "El curl concentrado con mancuerna agarre prono se enfoca principalmente en el músculo braquiorradial, aunque también trabaja en menor medida el bíceps braquial y el braquial anterior. Este ejercicio se considera una variante efectiva del curl concentrado y es especialmente útil para trabajar el músculo de manera aislada y mejorar la definición y fuerza en los brazos. A continuación, te explicamos cómo realizarlo correctamente.",
+            "imagen": "../src/assets/ejercicicios-gym/biceps/117-Curl-concentrado-con-mancuerna-agarre-prono.webp",
+            "video": "117-04031205-Dumbbell-Seated-Revers-grip-Concentration-Curl_For.mp4"
+        },
+        {
+            "id": 118,
+            "titulo": "Curl con barra Z",
+            "categoria": "Biceps",
+            "descripcion": "El curl con barra Z agarre supino es un ejercicio altamente efectivo para trabajar los músculos de los brazos, especialmente los bíceps. Este movimiento es ideal para aquellos que buscan aumentar la fuerza y el tamaño de sus brazos. ¡Agrega este ejercicio a tu rutina y comienza a ver los resultados!",
+            "imagen": "../src/assets/ejercicicios-gym/biceps/118-Curl-con-barra-EZ-agarre-supino.webp",
+            "video": "118-04471205-EZ-Barbell-Curl_Upper-Arms-flat.mp4"
+        },
+        {
+            "id": 119,
+            "titulo": "Curl con barra Z (agarre abierto)",
+            "categoria": "Biceps",
+            "descripcion": "El curl con barra Z agarre abierto es un ejercicio que trabaja tanto el bíceps corto como el bíceps largo, aunque se enfoca principalmente en el bíceps corto. Al usar un agarre más amplio en la barra, se puede involucrar más el músculo braquial, el cual se encuentra en la parte inferior del brazo y ayuda a darle forma al bíceps. Es importante recordar que ambos músculos deben trabajar en conjunto para lograr una buena definición en el bíceps. Aprende la técnica correcta y mejora el pico de tus bíceps.",
+            "imagen": "../src/assets/ejercicicios-gym/biceps/119-Curl-con-barra-EZ-abierto.webp",
+            "video": "119-27411205-EZ-Barbell-Standing-Wide-Grip-Biceps-Curl_Upper-Arms-flat.mp4"
+        },
+        {
+            "id": 120,
+            "titulo": "Curl agarre prono con mancuernas",
+            "categoria": "Biceps",
+            "descripcion": "El curl agarre prono con mancuernas es un ejercicio altamente efectivo para fortalecer y tonificar los antebrazos, en especial el músculo braquiorradial, lo que lo hace ideal para aquellos que buscan mejorar su fuerza y apariencia física. A través de movimientos controlados, puedes trabajar tus músculos de manera efectiva y lograr resultados satisfactorios. Con las instrucciones adecuadas y algunos consejos prácticos, podrás realizar este ejercicio de manera segura y efectiva en tu próximo entrenamiento.s y experimenta el aumento de la fuerza y el tamaño en tus bíceps!",
+            "imagen": "../src/assets/ejercicicios-gym/biceps/120-Curl-agarre-prono-con-mancuernas.webp",
+            "video": "120-04291205-Dumbbell-Standing-Reverse-Curl_Forearms-flat.mp4"
+        },
+        {
+            "id": 121,
+            "titulo": "Curl de martillo cruzado con mancuernas",
+            "categoria": "Biceps",
+            "descripcion": "Curl de martillo cruzado con mancuernas",
+            "imagen": "../src/assets/ejercicicios-gym/biceps/121-Curl-martillo-cruzado-con-mancuerna-alternado.webp",
+            "video": "121-16571205-Dumbbell-Cross-Body-Hammer-Curl-Version-2_Upper-Arms-FIX-flat.mp4"
+        },
+        {
+            "id": 122,
+            "titulo": "Curl concentrado en máquina",
+            "categoria": "Biceps",
+            "descripcion": "Estimula tus bíceps correctamente con el curl concentrado en máquina y desarrolla tus brazos como nunca. Para este ejercicio, necesitas una máquina de apalancamiento de curl predicador o también puedes hacerlo en un banco scott con mancuernas.",
+            "imagen": "../src/assets/ejercicicios-gym/biceps/115-Curl-predicador-a-una-mano-con-mancuerna.webp",
+            "video": "122-18721205-Lever-Preacher-Curl-plate-loaded_Upper-Arms.mp4"
+        },
+        {
+            "id": 123,
+            "titulo": "Curl en polea baja con barra recta",
+            "categoria": "Biceps",
+            "descripcion": "El curl de bíceps en polea baja será uno de tus ejercicios favoritos cuando leas lo fácil que es hacerlo, sus beneficios y los consejos que te brindo para mejorar tus resultados. ¡Empecemos!",
+            "imagen": "../src/assets/ejercicicios-gym/biceps/115-Curl-predicador-a-una-mano-con-mancuerna.webp",
+            "video": "123-16071205-Cable-Biceps-Curl-SZ-bar_Upper-arms-flat.mp4"
+        },
+        {
+            "id": 124,
+            "titulo": "Curl predicador con mancuernas (agarre supino)",
+            "categoria": "Biceps",
+            "descripcion": "El curl predicador con mancuernas es una variante del curl que utiliza el banco scott para flexionar tus brazos y mejorar el estímulo que reciben los músculos de tus brazos. En este caso aprenderás como hacerlo con un agarre supino, es decir, con las palmas apuntando hacia arriba y cuyos beneficios resultan mejores para tu braquial y bíceps braquial.",
+            "imagen": "../src/assets/ejercicicios-gym/biceps/124-Curl-predicador-con-mancuernas.webp",
+            "video": "../src/assets/ejercicicios-gym/biceps/124-Curl-predicador-con-mancuernas.webp"
+        },
+        {
+            "id": 125,
+            "titulo": "Curl Zottman con mancuernas",
+            "categoria": "Biceps",
+            "descripcion": "El curl de Zottman con mancuernas se denomina así en honor al hombre que lo ideo. En realidad se trata de una combinación de movimientos de curl tradicional, que se mezcla con el movimiento típico del curl invertido; por lo que es uno de los mejores ejercicios que podemos incluir en nuestra rutina a la hora de trabajar los brazos, sobre todo la región del bíceps y tríceps.",
+            "imagen": "../src/assets/ejercicicios-gym/biceps/125-Curl-Zottman-con-mancuernas.webp",
+            "video": "125-04391205-Dumbbell-Zottman-Curl_Upper-Arms-FIX-flat.mp4"
+        },
+        {
+            "id": 126,
+            "titulo": "Curl invertido con barra",
+            "categoria": "Biceps",
+            "descripcion": "El curl de bíceps invertido con barra es una variante del curl de bíceps con barra, en donde el agarre se vuelve prono, lo que hace que trabajemos de otra forma los bíceps, además de otros músculos del tren superior de nuestro cuerpo.",
+            "imagen": "../src/assets/ejercicicios-gym/biceps/126-00801105-Barbell-Reverse-Curl_Forearm_max-1024x576.jpg",
+            "video": "../src/assets/ejercicicios-gym/biceps/126-00801105-Barbell-Reverse-Curl_Forearm_max-1024x576.jpg"
+        },
+        {
+            "id": 127,
+            "titulo": "Curl bíceps inclinado con mancuerna",
+            "categoria": "Biceps",
+            "descripcion": "El curl de bíceps inlcinado es un ejercicio perfecto para potencia la musculatura principalmente los bíceps hasta el antebrazo. Se trata de un ejercicio que implica un movimiento muy sencillo de hacer y que es ampliamente conocido en el mundo de fisicoculturismo.",
+            "imagen": "../src/assets/ejercicicios-gym/biceps/115-Curl-predicador-a-una-mano-con-mancuerna.webp",
+            "video": "127-03151205-Dumbbell-Incline-Biceps-Curl_Upper-Arms.mp4"
+        },
+        {
+            "id": 128,
+            "titulo": "Remo con barra en banco inclinado",
+            "categoria": "Biceps",
+            "descripcion": "Si buscas ejercitar la espalda a nivel trapecio y al mismo tiempo los músculos de los brazos, el remo con barra en banco inclinado es un genial ejercicio. Es fundamental que aprendas a llevar a cabo de manera correcta la técnica para lograr los objetivos deseados y, así, poder eludir lesiones, contracturas o cualquier tipo de problema. A continuación, te decimos cómo realizar este ejercicio.",
+            "imagen": "../src/assets/ejercicicios-gym/biceps/128-ui-1024x576.png",
+            "video": "../src/assets/ejercicicios-gym/biceps/128-ui-1024x576.png"
+        },
+        {
+            "id": 129,
+            "titulo": "Bíceps, brazos en cruz en polea alta",
+            "categoria": "Biceps",
+            "descripcion": "Realizar el bíceps, brazos en cruz en polea alta, te permite tonificar los músculos de esta zona. Además, te ayuda a generar fuerza de agarre para poder jalar el peso que hayas escogido con anterioridad.",
+            "imagen": "../src/assets/ejercicicios-gym/biceps/129-Curl-de-biceps-con-polea-alta.webp",
+            "video": "129-02291205-Cable-Standing-Inner-Curl_Upper-Arms.mp4"
+        },
+        {
+            "id": 130,
+            "titulo": "Curl de bíceps en banco Scott",
+            "categoria": "Biceps",
+            "descripcion": "Uno de los mejores ejercicios para solicitar el trabajo del bíceps es el curl de bíceps en el banco Scott. Este ejercicio se debe realizar sobre una máquina que es específica para él (banco scott también llamado predicador), contando con una zona acolchada inclinada donde se ubicaran los brazos.",
+            "imagen": "../src/assets/ejercicicios-gym/biceps/130-00701105-Barbell-Preacher-Curl_Upper-Arms_max-1024x576.jpg",
+            "video": "../src/assets/ejercicicios-gym/biceps/130-00701105-Barbell-Preacher-Curl_Upper-Arms_max-1024x576.jpg"
+        },
+        {
+            "id": 131,
+            "titulo": "Curl de bíceps",
+            "categoria": "Biceps",
+            "descripcion": "El curl de bíceps es uno de esos ejercicios que no debe ni puede faltar en tu rutina de ejercicios si lo que buscas y deseas es obtener un aumento de bíceps considerable. Hoy aprenderás la técnica correcta y los músculos que se fortalecen según el agarre o el peso que estés utilizando (barra o mancuerna).",
+            "imagen": "../src/assets/ejercicicios-gym/biceps/131-Curl-con-mancuernas.webp",
+            "video": "131-04161205-Dumbbell-Standing-Biceps-Curl_Upper-Arms-flat.mp4"
+        },
+        {
+            "id": 132,
+            "titulo": "Curl martillo con mancuernas",
+            "categoria": "Biceps",
+            "descripcion": "Una de las variantes correspondientes a los ejercicios más populares del mundo fitness, es el curl de bíceps, específicamente el curl martillo.",
+            "imagen": "../src/assets/ejercicicios-gym/biceps/132-Curl-martillo-a-una-mano-con-mancuerna.webp",
+            "video": "132-03131205-Dumbbell-Hammer-Curl_Forearms-flat.mp4"
+        },
+        {
+            "id": 133,
+            "titulo": "Curl concentrado con mancuerna (agarre supino)",
+            "categoria": "Biceps",
+            "descripcion": "El curl concentrado es un ejercicio muy frecuente en la iniciación al mundo fitness, estando presente en la mayoría de las rutinas de musculación que solicitan en frecuente trabajo de los brazos, específicamente en los bíceps.",
+            "imagen": "../src/assets/ejercicicios-gym/biceps/133-Curl-concentrado-con-mancuerna.webp",
+            "video": "133-02971205-Dumbbell-Concentration-Curl_Upper-Arms-FIX-flat.mp4"
+        },
+        {
+            "id": 134,
+            "titulo": "Curl alternado con mancuerna",
+            "categoria": "Biceps",
+            "descripcion": "Uno de los ejercicios de mayor efectividad y sencillos para realizar es el curl alterno. De hecho, es sumamente recomendado para añadir a la rutina del gimnasio debido a que es ampliamente versátil, porque permite trabajar diferentes músculos del miembro superior.",
+            "imagen": "../src/assets/ejercicicios-gym/biceps/134-Curl-de-biceps.gif",
+            "video": "../src/assets/ejercicicios-gym/biceps/134-Curl-de-biceps.gif"
+        },
+        {
+            "id": 135,
+            "titulo": "Sentadilla sumo en máquina Smith",
+            "categoria": "Piernas",
+            "descripcion": "La sentadilla sumo en máquina Smith es un ejercicio excelente para trabajar los músculos de las piernas y los glúteos. Si estás buscando un ejercicio desafiante para incorporar a tu rutina de entrenamiento de piernas, la sentadilla sumo en máquina Smith puede ser una gran opción para ti.",
+            "imagen": "../src/assets/ejercicicios-gym/piernas/135-Sentadilla-sumo-en-maquina-smith-1024x576.webp",
+            "video": "135-31421205-Smith-Sumo-Squat_Hips-flat_1.mp4"
+        },
+        {
+            "id": 136,
+            "titulo": "Sentadilla sumo con pesa rusa",
+            "categoria": "Piernas",
+            "descripcion": "Si estás buscando un ejercicio que te ayude a tonificar tus piernas y glúteos de manera efectiva, la sentadilla sumo con pesa rusa es perfecta para ti. Este ejercicio, que requiere colocar los pies en dos plataformas, te permitirá trabajar esos músculos de una forma diferente y desafiante. Además, puedes realizarlo en cualquier lugar donde tengas una pesa rusa y un par de plataformas.",
+            "imagen": "../src/assets/ejercicicios-gym/piernas/136-Sentadilla-sumo-con-pesa-rusa-1024x576.webp",
+            "video": "136-53051205-Kettlebell-Sumo-Squat-off-Stepbox-male_Hips-flat_1.mp4"
+        },
+        {
+            "id": 137,
+            "titulo": "Sentadilla split en máquina Smith",
+            "categoria": "Piernas",
+            "descripcion": "La sentadilla split en máquina Smith es un excelente ejercicio para fortalecer los músculos de las piernas y los glúteos, y es una alternativa segura y efectiva a la sentadilla tradicional con barra. Este ejercicio también puede ayudar a mejorar la estabilidad y el equilibrio. Si estás buscando un desafío en tus entrenamientos de piernas, la sentadilla split en máquina Smith es una excelente opción.",
+            "imagen": "../src/assets/ejercicicios-gym/piernas/135-Sentadilla-sumo-en-maquina-smith-1024x576.webp",
+            "video": "137-07691205-Smith-Split-Squat_Thighs-flat.mp4"
+        },
+        {
+            "id": 138,
+            "titulo": "Sentadilla split con mancuernas",
+            "categoria": "Piernas",
+            "descripcion": "Si estás buscando un ejercicio efectivo para trabajar tus piernas y glúteos, la sentadilla split con mancuernas puede ser justo lo que necesitas. Este ejercicio ayuda a desarrollar fuerza, estabilidad y equilibrio en la parte inferior del cuerpo, lo que puede mejorar tu desempeño en otros ejercicios y actividades diarias. Además, al trabajar una pierna a la vez, puedes detectar y corregir desequilibrios musculares. ¡Anímate a probar la sentadilla split con mancuernas!",
+            "imagen": "../src/assets/ejercicicios-gym/piernas/138-Sentadilla-split-con-mancuernas-1024x576.webp",
+            "video": "138-29601205-Dumbbell-Split-Squat_Thighs-flat.mp4"
+        },
+        {
+            "id": 140,
+            "titulo": "Sentadilla silla en máquina Smith",
+            "categoria": "Piernas",
+            "descripcion": "La sentadilla es uno de los ejercicios más completos que puedes hacer en el gimnasio, ya que involucra muchos grupos musculares y puede ayudarte a aumentar tu fuerza y resistencia. Una variación interesante de este ejercicio es la sentadilla silla en máquina Smith, que te permite realizar el movimiento con más seguridad y precisión. En este artículo, te mostraremos cómo hacer correctamente la sentadilla silla en máquina Smith para que puedas aprovechar al máximo sus beneficios.",
+            "imagen": "../src/assets/ejercicicios-gym/piernas/140-Sentadilla-silla-en-maquina-Smith-1024x576.webp",
+            "video": "140-07501205-Smith-Chair-Squat_Thighs-flat.mp4"
+        },
+        {
+            "id": 141,
+            "titulo": "Sentadilla lateral con mancuerna",
+            "categoria": "Piernas",
+            "descripcion": "¿Estás buscando un ejercicio que fortalezca tus piernas, glúteos y core al mismo tiempo? ¡La sentadilla lateral con una mancuerna es perfecta para ti! Este ejercicio te permitirá trabajar diferentes grupos musculares al mismo tiempo, lo que resulta en un entrenamiento efectivo y eficiente.",
+            "imagen": "../src/assets/ejercicicios-gym/piernas/141-Sentadilla-lateral-con-mancuerna-1024x576.webp",
+            "video": "141-47541205-Dumbbell-Side-Squat_Thighs-flat.mp4"
+        },
+        {
+            "id": 142,
+            "titulo": "Sentadilla frontal con mancuernas",
+            "categoria": "Piernas",
+            "descripcion": "Si estás buscando un ejercicio para tonificar tus piernas y glúteos, la sentadilla frontal con mancuernas puede ser justo lo que necesitas. Además, este ejercicio también trabaja tus hombros y abdomen, haciendo que sea una opción eficiente y efectiva para un entrenamiento de cuerpo completo. ¡Atrévete a incorporar la sentadilla frontal con mancuernas en tu rutina de ejercicios y obtén los resultados que deseas!",
+            "imagen": "../src/assets/ejercicicios-gym/piernas/142-Sentadilla-frontal-con-mancuernas-1024x576.webp",
+            "video": "142-29661205-Dumbbell-Front-Squat_Thighs-flat.mp4"
+        },
+        {
+            "id": 143,
+            "titulo": "Sentadilla en máquina péndulo",
+            "categoria": "Piernas",
+            "descripcion": "Si estás buscando llevar tus entrenamientos al siguiente nivel y fortalecer tus piernas, la sentadilla en máquina péndulo es un ejercicio avanzado que definitivamente debes incluir en tu rutina si la máquina está disponible en tu gimnasio. Este ejercicio te permitirá trabajar los músculos de las piernas y glúteos de una manera efectiva y segura, ayudándote a mejorar tu fuerza y resistencia. ¡No te pierdas la oportunidad de probarlo!",
+            "imagen": "../src/assets/ejercicicios-gym/piernas/143-Sentadilla-de-pendulo-en-maquina-1024x576.webp",
+            "video": "143-49511205-Lever-Pendulum-Squat-plate-loaded_Thighs-flat.mp4"
+        },
+        {
+            "id": 144,
+            "titulo": "Press de pierna horizontal sentado en máquina",
+            "categoria": "Piernas",
+            "descripcion": "Si estás buscando un ejercicio para fortalecer tus piernas y mejorar tu resistencia, el press de pierna horizontal sentado en máquina es una excelente opción. Este ejercicio es muy efectivo para trabajar los músculos de las piernas, especialmente los cuádriceps, glúteos e isquiotibiales.",
+            "imagen": "../src/assets/ejercicicios-gym/piernas/144-Press-de-pierna-sentado-en-maquina-1024x576.webp",
+            "video": "144-22671205-Lever-Seated-Leg-Press_Thighs.mp4"
+        },
+        {
+            "id": 145,
+            "titulo": "Farmer Carry con barra trampa",
+            "categoria": "Piernas",
+            "descripcion": "El Farmer Carry con barra trampa es un ejercicio altamente efectivo para fortalecer los músculos de todo el cuerpo y mejorar la resistencia. Este ejercicio, también conocido como «caminata de granjero«, es muy popular entre los atletas de fuerza y los levantadores de pesas debido a su capacidad para trabajar la fuerza de agarre, la estabilidad del núcleo y la resistencia cardiovascular. Si estás buscando un ejercicio que desafíe tu fuerza y resistencia, el Farmer Carry con barra trampa es una excelente opción.",
+            "imagen": "../src/assets/ejercicicios-gym/piernas/145-Farmer-Carry-con-barra-trampa-1024x576.webp",
+            "video": "145-29121205-Trap-Bar-Farmers-Carry_Thighs-flat.mp4"
+        },
+        {
+            "id": 146,
+            "titulo": "Estocada frontal con mancuernas",
+            "categoria": "Piernas",
+            "descripcion": "La estocada frontal con mancuernas es un ejercicio eficaz para trabajar los músculos de las piernas, glúteos y abdominales al mismo tiempo. Es una excelente opción para aquellos que buscan mejorar su fuerza, equilibrio y coordinación.",
+            "imagen": "../src/assets/ejercicicios-gym/piernas/146-Estocada-frontal-con-mancuernas-1024x576.webp",
+            "video": "146-33981205-Dumbbell-Front-Rack-Lunge_Thighs-flat.mp4"
+        },
+        {
+            "id": 147,
+            "titulo": "Estocada con mancuernas",
+            "categoria": "Piernas",
+            "descripcion": "La estocada con mancuernas es un excelente ejercicio para trabajar los músculos de las piernas y los glúteos, mejorando la fuerza, el equilibrio y la estabilidad. Además, es un ejercicio versátil que se puede realizar en cualquier lugar con un par de mancuernas. Aprende cómo hacerlo correctamente y agrega este ejercicio a tu rutina de entrenamiento para obtener resultados duraderos.",
+            "imagen": "../src/assets/ejercicicios-gym/piernas/147-Estocada-con-mancuerna-1024x576.webp",
+            "video": "147-03361205-Dumbbell-Lunge_Hips-flat_1.mp4"
+        },
+        {
+            "id": 148,
+            "titulo": "Curl a una pierna tumbado en máquina",
+            "categoria": "Piernas",
+            "descripcion": "¿Quieres tonificar tus femorales y glúteos? El curl a una pierna acostado en máquina es el ejercicio unilateral perfecto para lograrlo. Con esta técnica podrás fortalecer y dar forma a tus músculos de manera efectiva. Sigue leyendo y descubre cómo hacerlo correctamente para obtener los mejores resultados.",
+            "imagen": "../src/assets/ejercicicios-gym/piernas/148-Curl-a-una-pierna-acostado-en-maquina-1024x576.webp",
+            "video": "148-15901205-Lever-Lying-Single-Leg-Curl_Thighs-flat.mp4"
+        },
+        {
+            "id": 149,
+            "titulo": "Thruster con mancuernas",
+            "categoria": "Piernas",
+            "descripcion": "El Thruster con mancuernas es un ejercicio compuesto de fuerza que involucra sentadillas y press de hombros con mancuernas. Requiere de potencia, fuerza y coordinación para realizar un Thruster perfecto. ¿Quieres aprender cómo hacerlo? ¡Vamos a ello!",
+            "imagen": "../src/assets/ejercicicios-gym/piernas/149-Thruster-con-mancuernas-1024x576.webp",
+            "video": "149-29681205-Dumbbell-Thruster_Thighs-flat.mp4"
+        },
+        {
+            "id": 150,
+            "titulo": "Zancadas con mancuernas caminando",
+            "categoria": "Piernas",
+            "descripcion": "Las zancadas con mancuernas caminando son un excelente ejercicio para desarrollar fuerza y musculatura en las piernas, especialmente en los músculos de los glúteos, los cuádriceps y los isquiotibiales. Además de mejorar la fuerza, las zancadas caminando con mancuernas también pueden mejorar la estabilidad, la flexibilidad y la coordinación.",
+            "imagen": "../src/assets/ejercicicios-gym/piernas/150-Zancadas-con-mancuernas-1024x576.webp",
+            "video": "150-15571205-Dumbbell-Walking-Lunges_Thighs-flat.mp4"
+        },
+        {
+            "id": 151,
+            "titulo": "Press de pierna posición abierta",
+            "categoria": "Piernas",
+            "descripcion": "Press de pierna posición abierta",
+            "imagen": "../src/assets/ejercicicios-gym/piernas/151-07401105-Sled-45°-Leg-Wide-Press_Thighs_max-1024x576.jpg",
+            "video": "../src/assets/ejercicicios-gym/piernas/151-07401105-Sled-45°-Leg-Wide-Press_Thighs_max-1024x576.jpg"
+        },
+        {
+            "id": 152,
+            "titulo": "Press de piernas",
+            "categoria": "Piernas",
+            "descripcion": "El press de pierna o prensa de piernas es un ejercicio que utiliza una máquina de apalancamiento y te permite hacer «sentadillas como si estuvieras acostado» de modo que tu cuerpo esté inclinado optimizando el trabajo que hacen tus cuádriceps y glúteos. También entrenas aductores y el sóleo como músculos sinergistas. Aprendamos como hacerlo.",
+            "imagen": "../src/assets/ejercicicios-gym/piernas/152-Press-de-pierna-en-maquina-1024x576.webp",
+            "video": "152-07391205Sled45legpress-Hipsflat-1-e.mp4"
+        },
+        {
+            "id": 153,
+            "titulo": "Sentadilla Hack Squat",
+            "categoria": "Piernas",
+            "descripcion": "La sentadilla hack squat es un ejercicio con una máquina de apalancamiento que te permite hacer sentadillas de modo que tu cuerpo esté inclinado optimizando el trabajo que hacen tus cuádriceps y glúteos. También entrenas aductores y el sóleo como músculos sinergistas.",
+            "imagen": "../src/assets/ejercicicios-gym/piernas/153-Hack-Squat-en-maquina-1024x576.webp",
+            "video": "153-41001205-Sled-Wide-Hack-Squat-male_Thighs-flat.mp4"
+        },
+        {
+            "id": 154,
+            "titulo": "Sentadillas con peso corporal",
+            "categoria": "Piernas",
+            "descripcion": "Las sentadillas dominan los centros de gimnasio y los entrenamientos en casa, cuando de ponerse en forma respecta. Su fama es responsabilidad de su increíble efectividad para entrenar las piernas. Además, trabaja más músculos de los que creías.",
+            "imagen": "../src/assets/ejercicicios-gym/piernas/154-Sentadilla-1024x576.webp",
+            "video": "154-11971205-Squat_Thighs.mp4"
+        },
+        {
+            "id": 155,
+            "titulo": "Peso muerto con barra: Uno de los mejores ejercicios",
+            "categoria": "Piernas",
+            "descripcion": "Peso muerto con barra: Uno de los mejores ejercicios",
+            "imagen": "../src/assets/ejercicicios-gym/piernas/155-00321105-Barbell-Deadlift_Hips-FIX_max-1024x576.jpg",
+            "video": "../src/assets/ejercicicios-gym/piernas/155-00321105-Barbell-Deadlift_Hips-FIX_max-1024x576.jpg"
+        },
+        {
+            "id": 156,
+            "titulo": "Peso muerto rumano con barra",
+            "categoria": "Piernas",
+            "descripcion": "¿Quieres fortalecer tus piernas, glúteos y espalda baja de manera efectiva? El ejercicio peso muerto rumano con barra es la respuesta. Descubre cómo este movimiento compuesto puede transformar tu rutina de entrenamiento y ayudarte a alcanzar tus metas fitness.",
+            "imagen": "../src/assets/ejercicicios-gym/piernas/156-01161105-Barbell-Straight-Leg-Deadlift_Thighs_max-1024x576.jpg",
+            "video": "../src/assets/ejercicicios-gym/piernas/156-01161105-Barbell-Straight-Leg-Deadlift_Thighs_max-1024x576.jpg"
+        },
+        {
+            "id": 157,
+            "titulo": "Sentadilla frontal con barra",
+            "categoria": "Piernas",
+            "descripcion": "La sentadilla con barra frontal es un ejercicio perfecto para conseguir verticalidad y explosividad, siendo uno de los mejores para mejorar la musculatura de las piernas y glúteos.",
+            "imagen": "../src/assets/ejercicicios-gym/piernas/157-Sentadilla-frontal-con-barra-1024x576.webp",
+            "video": "157-00421205-Barbell-Front-Squat_Hips_1.mp4"
+        },
+        {
+            "id": 158,
+            "titulo": "Sentadilla sumo con barra",
+            "categoria": "Piernas",
+            "descripcion": "Si pretendes poder mejorar la musculatura de tus glúteos, te recomendamos conocer la ejecución de la sentadilla sumo; un ejercicio que concentra la elongación en la cara interior de la pierna, lo que quita un poco de presión a la región de los cuadríceps, como suele ocurrir con otros tipos de sentadillas.",
+            "imagen": "../src/assets/ejercicicios-gym/piernas/158-Sentadilla-sumo-con-barra-1024x576.webp",
+            "video": "158-10631205-Barbell-sumo-squat_Thighs-flat.mp4"
+        },
+        {
+            "id": 159,
+            "titulo": "Extensión de piernas en máquina",
+            "categoria": "Piernas",
+            "descripcion": "Las extensiones de piernas en máquina son un ejercicio perfecto para poder potenciar la musculatura de los cuadríceps. Al ser un ejercicio enfocado en esta zona, es ideal para centrarnos en una parte del cuerpo sin involucrar una gran variedad de músculos en su realización.",
+            "imagen": "../src/assets/ejercicicios-gym/piernas/159-Extension-de-piernas-en-maquina-1024x576.webp",
+            "video": "159-05851205-Lever-Leg-Extension_Thighs-FIX-flat.mp4"
+        },
+        {
+            "id": 160,
+            "titulo": "Curl femoral sentado en maquina",
+            "categoria": "Piernas",
+            "descripcion": "El curl femoral sentado en máquina es un ejercicio perfecto para trabajar un de las zonas que los principiantes suelen ignorar a la hora de entrenarse: el tren inferior; en zonas como muslos, isquiotibiales, glúteos, etc.",
+            "imagen": "../src/assets/ejercicicios-gym/piernas/160-Curl-de-piernas-sentado-en-maquina-1024x576.jpg",
+            "video": "160-05991205-Lever-Seated-Leg-Curl_Thighs.mp4"
+        },
+        {
+            "id": 161,
+            "titulo": "Curl femoral acostado en máquina",
+            "categoria": "Piernas",
+            "descripcion": "El curl femoral acostado en máquina es un ejercicio que sí o sí debemos incluir en nuestra rutina de entrenamiento si realmente queremos dar un salto y potenciar de una forma realmente efectiva nuestro tren inferior (algo usualmente pasado por alto por principiantes).",
+            "imagen": "../src/assets/ejercicicios-gym/piernas/161-Curl-de-piernas-acostado-1024x576.webp",
+            "video": "161-05861205-Lever-Lying-Leg-Curl_Thighs-flat.mp4"
+        },
+        {
+            "id": 162,
+            "titulo": "Patada de glúteo en polea baja",
+            "categoria": "Piernas",
+            "descripcion": "Las extensiones de cadera en polea baja o patada de gluteo con cable es un ejercicio de aislamiento para glúteos. De este modo, podrás ganar resistencia y tonificar la zona inferior del cuerpo.",
+            "imagen": "../src/assets/ejercicicios-gym/piernas/162-Extension-de-cadera-de-pie-en-polea-a-una-pierna-1024x576.webp",
+            "video": "../src/assets/ejercicicios-gym/piernas/162-Extension-de-cadera-de-pie-en-polea-a-una-pierna-1024x576.webp"
+        },
+        {
+            "id": 163,
+            "titulo": "Aductores en polea baja",
+            "categoria": "Piernas",
+            "descripcion": "Este ejercicio nos permite trabajar todo el conjunto de los músculos aductores, donde se incluye el pectíneo, el aductor menor, el aductor medio, el aductor mayor y también el músculo recto interno. De hecho, es un excelente movimiento para definir la cara interna de los muslos, principalmente a través de múltiples repeticiones.",
+            "imagen": "../src/assets/ejercicicios-gym/piernas/163-Aduccion-de-cadera-en-polea-1024x576.webp",
+            "video": "163-01681205-Cable-Hip-Adduction_Thighs.mp4"
+        },
+        {
+            "id": 164,
+            "titulo": "Aductores en máquina",
+            "categoria": "Piernas",
+            "descripcion": "Los aductores en máquina son ejercicios específicos para los músculos aductores del miembro inferior. Debido a que el músculo aductor se aisla el correcto desempeseño y ejecución del ejercicio determinará nuestras ganancias y evitará lesiones.",
+            "imagen": "../src/assets/ejercicicios-gym/piernas/161-Curl-de-piernas-acostado-1024x576.webp",
+            "video": "164-05981205-Lever-Seated-Hip-Adduction_Thighs.mp4"
+        },
+        {
+            "id": 165,
+            "titulo": "Levantamiento de pantorrillas en máquina Smith",
+            "categoria": "Gemelos",
+            "descripcion": "Si estás buscando fortalecer tus pantorrillas, el levantamiento de pantorrillas en máquina Smith es un excelente ejercicio para incluir en tu rutina. Este ejercicio se enfoca en la parte inferior de las piernas, lo que te ayudará a desarrollar músculo y mejorar tu estabilidad y equilibrio en tus actividades diarias.",
+            "imagen": "../src/assets/ejercicicios-gym/gemelos/165-Levantamiento-de-pantorrillas-en-maquina-Smith-1024x576.webp",
+            "video": "165-11641205-Smith-Calf-Raise-version-2_Calves-flat.mp4"
+        },
+        {
+            "id": 166,
+            "titulo": "Elevación de pantorrillas con barra",
+            "categoria": "Gemelos",
+            "descripcion": "Si estás buscando un ejercicio para tonificar tus pantorrillas, la elevación de pantorrillas con barra es una excelente opción. Este ejercicio desafía tus músculos de la pantorrilla y puede ayudar a mejorar la fuerza y la definición. Además, es fácil de realizar y se puede hacer en cualquier gimnasio con una barra y pesas. ¡Anímate a incluir este ejercicio en tu rutina y verás los resultados!",
+            "imagen": "../src/assets/ejercicicios-gym/gemelos/166-Levantamiento-de-pantorrillas-con-barra-Flat-1024x576.webp",
+            "video": "166-13721205-Barbell-Standing-Calf-Raise_Calves-flat.mp4"
+        },
+        {
+            "id": 167,
+            "titulo": "Elevación de pantorrillas sentado con mancuernas",
+            "categoria": "Gemelos",
+            "descripcion": "Las pantorrillas son una parte importante del cuerpo que a menudo se descuida en el entrenamiento. Pero si estás buscando fortalecer tus piernas y mejorar tu estabilidad, la elevación de pantorrilla sentado con mancuerna es un ejercicio excelente para incorporar en tu rutina de entrenamiento. Además, no requiere mucho espacio ni equipo costoso, lo que lo convierte en una opción conveniente para hacer en casa o en el gimnasio.",
+            "imagen": "../src/assets/ejercicicios-gym/gemelos/167-Levantamiento-de-pantorrillas-sentado-con-mancuernas-1024x576.webp",
+            "video": "167-13791205-Dumbbell-Seated-Calf-Raise_Calves-flat.mp4"
+        },
+        {
+            "id": 168,
+            "titulo": "Press de pantorrillas",
+            "categoria": "Gemelos",
+            "descripcion": "La elevación o levantamiento de pantorrillas en la máquina press, es un ejercicio realmente efectivo para el crecimiento / tonificación de tus pantorrillas.",
+            "imagen": "../src/assets/ejercicicios-gym/gemelos/168-Press-de-pantorrillas-en-maquina-1024x576.webp",
+            "video": "168-07381205-Sled-45-Calf-Press_Calf-flat.mp4"
+        },
+        {
+            "id": 169,
+            "titulo": "Elevación de talones de pie en máquina",
+            "categoria": "Gemelos",
+            "descripcion": "La elevación de talones de pie en máquina es un ejercicio sumamente sencillo de llevar a cabo que nos sirve para robustecer primordialmente el sóleo y la zona de los gemelos. Si bien no es indispensable el empleo de la máquina, el emplearla nos va a beneficiar para potenciar nuestra rutina.",
+            "imagen": "../src/assets/ejercicicios-gym/gemelos/169-Levantamiento-de-pantorrillas-de-pie-en-maquina-1024x576.webp",
+            "video": "169-06051205-Lever-Standing-Calf-Raise_Calf-flat.mp4"
+        },
+        {
+            "id": 170,
+            "titulo": "Elevación de talones sentado",
+            "categoria": "Gemelos",
+            "descripcion": "Realizar elevación de talones sentado es una tarea compleja cuando no tenemos la misma tonificación en las diferentes áreas del cuerpo. Debido a esto, es importante tomar en cuenta una rutina diferente que trabaje lo que falta en la rutina anterior. Aprende a hacer elevaciones de talones sentado con barra o en máquina y sácale el máximo partido a tus pantorrillas.",
+            "imagen": "../src/assets/ejercicicios-gym/gemelos/170-Levantamiento-de-pantorrillas-en-maquina-Costurera-1024x576.webp",
+            "video": "170-26661205-Lever-Seated-Calf-Raise-plate-loaded-VERSION-2_Calves-flat.mp4"
+        },
+        {
+            "id": 171,
+            "titulo": "Rueda abdominal de rodillas",
+            "categoria": "Abdominales",
+            "descripcion": "Si estás buscando un ejercicio desafiante y efectivo para fortalecer tus abdominales, la rueda abdominal de rodillas es una excelente opción. Este ejercicio se enfoca en trabajar los músculos de la parte media del cuerpo, mientras mejora la estabilidad del núcleo y la postura. Además, es fácil de realizar y se puede hacer en cualquier lugar. A continuación, te mostraremos cómo hacer correctamente la rueda abdominal de rodillas y algunos consejos útiles para obtener los mejores resultados.",
+            "imagen": "../src/assets/ejercicicios-gym/abdominales/171-Rueda-abdominal-1024x576.webp",
+            "video": "171-08571205-Wheel-Rollout_Waist-flat.mp4"
+        },
+        
+        {
+            "id": 172,
+            "titulo": "Plancha lateral",
+            "categoria": "Abdominales",
+            "descripcion": "La plancha lateral es un excelente ejercicio para trabajar los músculos del abdomen, los oblicuos y la espalda. Además de ser efectivo, es un ejercicio muy versátil que se puede hacer en cualquier lugar y sin necesidad de equipamiento. En este artículo, te enseñaremos cómo hacer correctamente la plancha lateral y algunos consejos para que puedas maximizar sus beneficios.",
+            "imagen": "../src/assets/ejercicicios-gym/abdominales/172-Plancha-lateral-1024x576.webp",
+            "video": "172-07151205-Side-Plank-m_Waist-flat.mp4"
+        },
+        {
+            "id": 173,
+            "titulo": "Inchworm",
+            "categoria": "Abdominales",
+            "descripcion": "Si estás buscando un ejercicio de cuerpo completo que pueda hacer en cualquier lugar, el Inchworm es una excelente opción. Este ejercicio no solo mejora la flexibilidad, sino que también fortalece los músculos de los brazos, la espalda, los glúteos y las piernas. ¡Prepárate para sentir una quemazón en todo tu cuerpo y obtener resultados sorprendentes!",
+            "imagen": "../src/assets/ejercicicios-gym/abdominales/173-Inchworm-v1-1024x576.webp",
+            "video": "173-14711205-Inchworm_Waist-flat.mp4"
+        },
+        {
+            "id": 174,
+            "titulo": "Hollow Hold",
+            "categoria": "Abdominales",
+            "descripcion": "Si buscas un ejercicio abdominal desafiante y efectivo, el Hollow Hold es una excelente opción. Este ejercicio no solo fortalece los músculos abdominales, sino que también mejora tu estabilidad y postura. ¡Así que prepárate para sentir el ardor en tu abdomen y ver resultados increíbles!",
+            "imagen": "../src/assets/ejercicicios-gym/abdominales/174-Hollow-Hold-1-1024x576.webp",
+            "video": "174-12461205-Hollow-Hold_Waist-flat.mp4"
+        },
+        {
+            "id": 175,
+            "titulo": "Giro Ruso con mancuerna",
+            "categoria": "Abdominales",
+            "descripcion": "¿Quieres darle un giro a tu rutina de entrenamiento y fortalecer tu core, brazos y hombros al mismo tiempo? El Giro Ruso con mancuerna es un ejercicio que no puedes dejar de probar. Este movimiento desafiante no solo tonifica tus músculos, sino que también mejora tu coordinación y equilibrio.",
+            "imagen": "../src/assets/ejercicicios-gym/abdominales/175-Giro-ruso-con-mancuerna-1024x576.webp",
+            "video": "175-42491205-Dumbbell-Straight-Leg-Russian-Twist_Waist-flat.mp4"
+        },
+        {
+            "id": 176,
+            "titulo": "Rueda abdominal de rodillas",
+            "categoria": "Abdominales",
+            "descripcion": "El Dead Bug es un ejercicio eficaz para fortalecer los músculos abdominales y mejorar la estabilidad del núcleo. Este ejercicio se puede hacer en cualquier lugar sin equipo especial y es excelente para personas de todos los niveles de condición física. Aprende cómo hacer este ejercicio en los siguientes pasos.",
+            "imagen": "../src/assets/ejercicicios-gym/abdominales/176-Dead-Bug-1024x576.webp",
+            "video": "176-02761205-Dead-Bug_Waist-flat.mp4"
+        },
+        {
+            "id": 177,
+            "titulo": "Crunch sentado en máquina",
+            "categoria": "Abdominales",
+            "descripcion": "El crunch sentado en máquina es un ejercicio de entrenamiento de fuerza que se enfoca en fortalecer los músculos abdominales. Es una excelente opción para aquellos que quieren añadir variedad a su rutina de abdominales o que tienen dificultades para hacer ejercicios abdominales en el suelo.",
+            "imagen": "../src/assets/ejercicicios-gym/abdominales/177-Crunch-sentado-en-maquina-1024x576.webp",
+            "video": "177-14521205-Lever-Seated-Crunch_Waist-flat.mp4"
+        },
+        {
+            "id": 178,
+            "titulo": "Crunch de pie en polea (agarre cuerda)",
+            "categoria": "Abdominales",
+            "descripcion": "Si buscas fortalecer tu core y mejorar tu estabilidad, el ejercicio de «Crunch de pie en polea con agarre cuerda» puede ser lo que necesitas. Este ejercicio de fuerza se enfoca en tus músculos abdominales y es fácil de realizar en cualquier gimnasio que tenga una máquina de polea. Sigue leyendo para descubrir cómo hacerlo correctamente y mejorar tu rutina de entrenamiento.",
+            "imagen": "../src/assets/ejercicicios-gym/abdominales/178-Crunch-de-pie-en-polea-con-cuerda-1024x576.webp",
+            "video": "178-08741205-Cable-Standing-Crunch-with-rope-attachment_waist.mp4"
+        },
+        {
+            "id": 179,
+            "titulo": "8 Leg Crunch",
+            "categoria": "Abdominales",
+            "descripcion": "El ejercicio 8 Leg Crunch es una variante desafiante de los abdominales tradicionales que involucra la coordinación y el equilibrio mientras se trabaja la fuerza de la zona central del cuerpo. A continuación, descubre cómo realizar este ejercicio de manera efectiva:",
+            "imagen": "../src/assets/ejercicicios-gym/abdominales/179-8-Leg-Crunch-1024x576.webp",
+            "video": "179-40221205-Seated-8-Leg-Crunch_Waist-flat.mp4"
+        },
+        {
+            "id": 180,
+            "titulo": "Twist Crunch con piernas elevadas",
+            "categoria": "Abdominales",
+            "descripcion": "Twist Crunch con piernas elevadas",
+            "imagen": "../src/assets/ejercicicios-gym/abdominales/180-Twist-Crunch-1024x576.webp",
+            "video": "180-55141205-Twist-Crunch-Legs-Up-male_Waist-flat.mp4"
+        },
+        {
+            "id": 181,
+            "titulo": "V-Up con mancuerna",
+            "categoria": "Abdominales",
+            "descripcion": "El V-Up con mancuerna es un ejercicio de entrenamiento del core que puede ayudarte a desarrollar una fuerza y ​​estabilidad significativas en la región abdominal. Al incorporar una mancuerna en el ejercicio, se agrega un mayor desafío a los músculos de la parte superior del cuerpo, lo que resulta en un entrenamiento más intenso y efectivo. ¡Aprendamos cómo hacerlo!",
+            "imagen": "../src/assets/ejercicicios-gym/abdominales/181-V-Up-con-mancuerna-1024x576.webp",
+            "video": "181-42501205-Dumbbell-V-up-VERSION-2_Waist-flat.mp4"
+        }
+    ]
+}
