@@ -95,7 +95,7 @@ export default {
     // Cargar ejercicios filtrados por categoría y los favoritos desde Firestore
     onMounted(async () => {
       try {
-        const response = await fetch('/public/ejercicios.json'); // Ajusta la ruta si es necesario
+        const response = await fetch('/ejercicios.json'); // Ajusta la ruta si es necesario
         if (!response.ok) {
           throw new Error('Error al cargar los ejercicios');
         }

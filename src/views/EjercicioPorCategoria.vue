@@ -24,7 +24,7 @@ export default {
     onMounted(async () => {
       try {
         // Cambié la ruta para que apunte correctamente al archivo en la carpeta public
-        const response = await fetch('../../public/ejercicios.json');
+        const response = await fetch('/ejercicios.json');
         if (!response.ok) {
           throw new Error('Error al cargar los ejercicios');
         }
