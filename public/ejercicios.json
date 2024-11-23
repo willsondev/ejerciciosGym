@@ -5,7 +5,7 @@
             "titulo": "Press de pecho en máquina",
             "categoria": "Pectorales",
             "descripcion": "El press de pecho en máquina es un ejercicio de entrenamiento de fuerza que se enfoca en los músculos del pecho, los hombros y los tríceps. Es una excelente manera de desarrollar y fortalecer los músculos de la parte superior del cuerpo, lo que puede mejorar tu postura, aumentar la fuerza y mejorar la apariencia física. Incorporar este ejercicio en tu rutina de entrenamiento puede ser muy beneficioso para lograr tus objetivos de fitness.",
-            "imagen": "../src/assets/ejercicicios-gym/Press-de-pecho-en-maquina-1024x576.webp",
+            "imagen": "./assets/ejercicicios-gym/Press-de-pecho-en-maquina-1024x576.webp",
             "video": "1.mp4"
         },
         {
